@@ -1,0 +1,118 @@
+body {
+  margin: 0;
+}
+
+.container {
+  display: grid;
+  grid-template-columns: 10% auto 10%;
+  grid-template-rows: 75px 150px 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
+}
+
+.header {
+  display: flex;
+  flex-shrink: 1;
+  flex-wrap: wrap;
+  flex-direction: row;
+  grid-column-start: 1;
+  grid-column-end: 4;
+  grid-row: 1;
+  background-color: black;
+  color: #fff;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.logo {
+  display: flex;
+  width: 300px;
+  justify-content: center;
+  align-items: center;
+}
+
+.search-icon {
+  display: flex;
+  border: 1px solid gray;
+  border-radius: 4px;
+  align-items: left;
+  justify-content: flex-start;
+  padding: 5px;
+  margin: 5px;
+}
+
+.hamburger-menu {
+  display: flex;
+  border: 1px solid gray;
+  border-radius: 4px;
+  padding: 5px;
+  padding-left: 7px;
+  padding-right: 7px;
+  justify-content: flex-start;
+  align-items: center;
+  margin: 5px;
+}
+
+.nav-bar-left {
+  display: flex;
+  justify-content: flex-start;
+}
+
+.user-icon {
+  display: flex;
+  border: 1px solid gray;
+  border-radius: 4px;
+  padding: 5px;
+  padding-left: 7px;
+  padding-right: 7px;
+  justify-content: flex-end;
+  align-items: center;
+  margin: 5px;
+}
+
+.title {
+  grid-column-start: 2;
+  grid-column-end: 3;
+  grid-row-start: 2;
+  grid-row-end: 3;
+}
+
+h1 {
+  font-family: stilson, serif;
+  font-weight: 500;
+  font-style: normal;
+  font-size: calc(21px + 2.5vw);
+  word-spacing: -0.02em;
+  margin: 5px;
+}
+
+h3 {
+  font-family: Ariel, sans-serif;
+  font-size: 17px;
+  font-weight: bold;
+  color: #1955a5;
+  margin-bottom: 5px;
+}
+
+h4 {
+  font-family: Ariel, sans-serif;
+  font-size: 15px;
+  color: #fff;
+  margin: 5px;
+}
+
+p {
+  font-family: stilson, serif;
+  font-size: 20px;
+  letter-spacing: 1px;
+}
+
+.text {
+  grid-column-start: 2;
+  grid-column-end: 3;
+}
+
+#bar {
+  grid-column-start: 2;
+  grid-column-end: 3;
+  grid-row-start: 4;
+  height: 400px;
+}
