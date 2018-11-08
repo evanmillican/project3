@@ -1,0 +1,2258 @@
+session party      name           bioguide_idoppose_anysupport_anylocal_topictotal_posts
+        Democratic
+    115Party       Sherrod Brown B000944            0.22       0.04      0.31        675
+        Democratic
+    115Party       Maria Cantwell C000127           0.43       0.07      0.28        274
+        Democratic Benjamin L.
+    115Party       'Ben' Cardin C000141             0.49       0.17      0.27         94
+                   Thomas
+        Democratic Richard 'Tom'
+    115Party       Carper         C000174           0.26       0.07      0.61        291
+        Democratic Robert Patrick
+    115Party       'Bob' Casey Jr.C001070           0.44       0.09      0.26        363
+        Republican
+    115Party       Bob Corker     C001071           0.03       0.21      0.52        432
+        Democratic Dianne
+    115Party       Feinstein      F000062           0.43        0.1      0.14        182
+        Republican
+    115Party       Orrin G. Hatch H000338           0.08       0.16      0.42        243
+        Democratic Amy Jean
+    115Party       Klobuchar      K000367           0.15       0.03      0.44        384
+        Democratic Claire
+    115Party       McCaskill      M001170           0.18       0.11      0.45        240
+        Democratic Robert 'Bob'
+    115Party       Menendez       M000639            0.4       0.06      0.25        540
+        Democratic
+    115Party       Bill Nelson    N000032           0.24       0.04      0.32        226
+                   Bernard
+        Democratic 'Bernie'
+    115Party       Sanders        S000033           0.58       0.08       0.1       2618
+        Democratic Debbie Ann
+    115Party       Stabenow       S000770           0.28       0.05      0.56        591
+        Democratic
+    115Party       Jon Tester     T000464           0.12       0.02      0.48        859
+        Democratic Sheldon
+    115Party       Whitehouse     W000802           0.34        0.1      0.34        437
+        Republican John A.
+    115Party       Barrasso       B001261           0.17       0.22      0.47        203
+        Republican Roger F.
+    115Party       Wicker         W000437           0.12       0.32      0.19        576
+        Republican Lamar
+    115Party       Alexander      A000360           0.15       0.12      0.54        169
+        Republican Susan M.
+    115Party       Collins        C001035              0       0.03      0.65        370
+        Republican
+    115Party       John Cornyn C001056              0.12       0.15      0.43        304
+        Democratic Richard J.
+    115Party       'Dick' Durbin D000563            0.55       0.12      0.17        711
+                   Michael
+        Republican Bradley 'Mike'
+    115Party       Enzi           E000285            0.1       0.14      0.41        247
+        Republican Lindsey Olin
+    115Party       Graham         G000359           0.14       0.34      0.36        314
+        Republican James M. 'Jim'
+    115Party       Inhofe         I000024           0.13       0.34       0.4        222
+        Republican Mitch
+    115Party       McConnell      M000355           0.19        0.2      0.28        763
+        Democratic
+    115Party       Jeff Merkley M001176             0.52       0.09      0.19        932
+        Democratic John Francis
+    115Party       'Jack' Reed    R000122           0.36       0.04      0.29        248
+        Republican Patrick 'Pat'
+    115Party       Roberts        R000307           0.04       0.08      0.62        381
+        Democratic Jeanne
+    115Party       Shaheen        S001181            0.4       0.08      0.36        492
+        Democratic
+    115Party       Tom S. Udall U000039             0.51       0.11      0.38        397
+        Democratic
+    115Party       Mark Warner W000805              0.28       0.08      0.23        120
+        Democratic Kirsten E.
+    115Party       Gillibrand     G000555           0.28       0.09      0.23        320
+   Democratic Alan Stuart 'Al'
+115Party      Franken          F000457   0.52   0.13   0.28   371
+              Christopher
+   Democratic Andrew 'Chris'
+115Party      Coons            C001088   0.27   0.07    0.4   522
+   Democratic
+115Party      Joe Manchin IIIM001183     0.07   0.03   0.66   485
+   Republican Robert B.
+115Party      Aderholt         A000055   0.02   0.12   0.54    91
+   Republican
+115Party      Justin Amash A000367       0.14   0.25   0.31   128
+   Democratic Tammy
+115Party      Baldwin          B001230   0.34   0.05   0.32   711
+   Republican Louis J. 'Lou'
+115Party      Barletta         B001269   0.09   0.25   0.41   558
+   Republican Joe Linus
+115Party      Barton           B000213   0.12   0.22   0.43   283
+   Democratic
+115Party      Karen Bass       B001270   0.43   0.08   0.15   493
+   Democratic Michael F.
+115Party      Bennet           B001267   0.27   0.04   0.32   721
+   Republican Gus M.
+115Party      Bilirakis        B001257   0.02   0.06   0.51   653
+   Republican
+115Party      Rob Bishop       B001250   0.05    0.1   0.49    39
+   Democratic Sanford D.
+115Party      Bishop Jr.       B000490   0.01     0    0.66   120
+   Republican
+115Party      Diane Black B001273        0.16   0.36   0.28   463
+              Marsha
+   Republican Wedgeworth
+115Party      Blackburn        B001243   0.07   0.24   0.27   783
+   Democratic Earl
+115Party      Blumenauer B000574         0.41   0.05   0.26   293
+   Democratic Richard
+115Party      Blumenthal       B001277   0.31   0.06   0.24   478
+   Republican
+115Party      Roy Blunt        B000575   0.14   0.19   0.37   265
+   Republican John Nichols
+115Party      Boozman          B001236   0.07   0.11   0.63   396
+   Republican
+115Party      Kevin P. Brady B000755     0.11   0.26   0.42   1020
+   Democratic Robert Alan
+115Party      'Bob' Brady      B001227    0.4    0.1   0.25    20
+              Morris
+   Republican Jackson 'Mo'
+115Party      Brooks Jr.       B001274    0.1   0.31   0.56   466
+   Republican Vern
+115Party      Buchanan         B001260   0.02   0.05   0.39   240
+   Republican
+115Party      Larry Bucshon B001275      0.16   0.22   0.47   443
+   Republican Michael C.
+115Party      Burgess          B001248   0.06   0.11   0.44   191
+   Republican Richard M.
+115Party      Burr             B001135   0.08   0.07   0.43   219
+              George
+   Democratic Kenneth 'G.K.'
+115Party      Butterfield Jr. B001251    0.29   0.05   0.49   480
+   Republican
+115Party      Ken S. Calvert C000059     0.31   0.35    0.5    26
+   Republican Shelley Moore
+115Party      Capito           C001047   0.03   0.09   0.53   572
+   Democratic Michael E.
+115Party      Capuano          C001037   0.32   0.04   0.43   193
+   Democratic
+115Party      Andre Carson C001072       0.15   0.05   0.34   244
+   Republican
+115Party      John R. Carter C001051     0.03   0.13   0.66   1112
+   Republican
+115Party      Bill Cassidy     C001075   0.13   0.14   0.54   506
+   Democratic
+115Party      Kathy Castor C001066      0.56   0.12   0.32   442
+   Republican Steve J.
+115Party      Chabot          C000266   0.02   0.06   0.61   243
+   Republican
+115Party      Jason Chaffetz C001076    0.12   0.12   0.23   317
+   Democratic
+115Party      Judy M. Chu C001080       0.49   0.07   0.25   411
+   Democratic David N.
+115Party      Cicilline       C001084   0.51   0.12   0.15   674
+   Democratic Yvette D.
+115Party      Clarke          C001067   0.36   0.09   0.17   614
+   Democratic William Lacy
+115Party      'Lacy' Clay Jr. C001049   0.44   0.04    0.2   181
+   Democratic Emanuel
+115Party      Cleaver II      C001061   0.28   0.06   0.31   392
+   Democratic James E. 'Jim'
+115Party      Clyburn         C000537   0.06   0.09    0.5   101
+   Republican
+115Party      Mike Coffman C001077      0.01   0.03   0.31   370
+   Democratic Steve 'Steve'
+115Party      Cohen           C001068   0.47   0.15   0.25   441
+              Thomas
+   Republican Jeffery 'Tom'
+115Party      Cole            C001053   0.05   0.16   0.54   114
+              Kenneth
+   Republican Michael 'Mike'
+115Party      Conaway         C001062   0.03   0.08   0.63   227
+              Gerald Edward
+   Democratic 'Gerry'
+115Party      Connolly        C001078   0.38   0.08   0.23   297
+   Democratic John James
+115Party      Conyers Jr.     C000714   0.37   0.14   0.15   337
+              James Hayes
+   Democratic Shofner 'Jim'
+115Party      Cooper          C000754   0.37   0.09   0.29   214
+   Democratic
+115Party      Jim Costa       C001059   0.09   0.03   0.59   328
+   Democratic
+115Party      Joe Courtney C001069      0.29   0.08   0.58   298
+   Republican Michael Dean
+115Party      'Mike' Crapo C000880        0    0.05   0.51   214
+   Republican Eric A. 'Rick'
+115Party      Crawford        C001087   0.06   0.14   0.54   265
+   Democratic Joseph 'Joe'
+115Party      Crowley         C001038   0.42   0.17   0.25   838
+   Democratic
+115Party      Henry Cuellar C001063     0.06   0.01   0.61   398
+   Republican John Abney
+115Party      Culberson       C001048   0.02   0.07   0.58   289
+   Democratic Elijah Eugene
+115Party      Cummings        C000984   0.42    0.1   0.21   434
+   Democratic Susan A.
+115Party      Davis           D000598   0.34   0.07   0.27   388
+   Democratic Peter Anthony
+115Party      DeFazio         D000191   0.47   0.09   0.29   154
+   Democratic Diana Louise
+115Party      DeGette         D000197   0.42   0.12    0.3   382
+   Democratic Rosa Luisa
+115Party      DeLauro         D000216    0.4   0.07   0.36   297
+   Republican
+115Party      Jeff Denham D000612       0.03   0.04   0.55   333
+   Republican Charles W.
+115Party      'Charlie' Dent D000604    0.01   0.11   0.53   203
+   Republican Scott
+115Party      DesJarlais      D000616   0.34    0.3   0.27   353
+   Democratic Theodore E.
+115Party      'Ted' Deutch D000610        0.33   0.07   0.36   332
+   Republican Mario Diaz-
+115Party      Balart            D000600   0.02    0.1   0.63   568
+   Democratic Lloyd A.
+   Party      Doggett
+115                             D000399   0.54   0.07   0.38   1125
+   Democratic
+115Party      Joe Donnelly D000607        0.07   0.01   0.57   967
+   Democratic Michael F.
+115Party      'Mike' Doyle D000482         0.5   0.07   0.18   103
+   Republican
+115Party      Sean P. Duffy D000614       0.09   0.14   0.46   589
+   Republican
+115Party      Jeff Duncan D000615         0.26   0.33   0.37   473
+              John James
+   Republican 'Jimmy'
+115Party      Duncan Jr.        D000533   0.03   0.03   0.69    39
+   Democratic Keith Maurice
+115Party      Ellison           E000288    0.3   0.24   0.31   596
+   Democratic
+115Party      Eliot L. Engel E000179      0.55   0.13   0.09   179
+   Democratic Anna Georges
+115Party      Eshoo             E000215    0.3   0.07   0.24   162
+   Republican Blake
+115Party      Farenthold        F000460   0.03    0.1   0.57   801
+   Republican
+115Party      Jeff Flake        F000444   0.04   0.08   0.33   271
+              Charles J.
+   Republican 'Chuck'
+115Party      Fleischmann F000459         0.02   0.08   0.67   199
+   Republican William H. 'Bill'
+115Party      Flores            F000461   0.09   0.15   0.47   1078
+   Republican Jeff Lane
+115Party      Fortenberry       F000449     0    0.02   0.43   691
+   Republican Virginia Ann
+115Party      Foxx              F000450   0.22    0.3   0.31    54
+   Republican
+115Party      Trent Franks F000448        0.11   0.15   0.29   133
+   Republican Rodney P.
+115Party      Frelinghuysen F000372       0.05   0.03   0.63    94
+   Democratic Marcia L.
+115Party      Fudge             F000455   0.25   0.07   0.34   281
+   Democratic John Raymond
+115Party      Garamendi         G000559   0.23   0.04   0.45   804
+   Republican
+115Party      Cory Gardner G000562        0.03    0.1    0.5   281
+   Republican
+115Party      Bob Gibbs         G000563   0.07   0.12   0.62   301
+   Republican Louie B.
+115Party      Gohmert Jr. G000552         0.12   0.22   0.23   659
+   Republican Robert William
+115Party      'Bob' GoodlatteG000289      0.06   0.11   0.56   358
+   Republican Paul Anthony
+115Party      Gosar             G000565   0.14   0.19   0.35   807
+              Harold Watson
+   Republican 'Trey' Gowdy
+115Party      III               G000566   0.02   0.04   0.16    45
+   Republican
+115Party      Kay Granger G000377         0.03   0.03   0.47   150
+              Charles Ernest
+   Republican 'Chuck'
+115Party      Grassley          G000386   0.11   0.16   0.24   416
+   Republican Sam B.
+115Party      Graves            G000546   0.09   0.22   0.52   126
+   Republican
+115Party      Tom Graves G000560          0.11   0.24   0.43   359
+   Democratic
+115Party      Al Green          G000553   0.12   0.03   0.12    34
+   Democratic Gene Eugene
+115Party      Green           G000410   0.33   0.05    0.4   295
+              Howard
+              Morgan
+   Republican 'Morgan'
+115Party      Griffith        G000568   0.07   0.09   0.48   376
+   Democratic Raul M.
+   Party      Grijalva
+115                           G000551    0.5   0.08    0.2   1036
+   Republican
+115Party      Brett Guthrie G000558     0.07   0.09   0.64   484
+   Democratic Luis V.
+115Party      Gutierrez       G000535   0.28   0.13   0.29   555
+   Republican
+115Party      Gregg Harper H001045      0.01   0.08   0.65    79
+   Republican
+115Party      Andy Harris     H001052   0.04   0.07   0.69   247
+   Republican
+115Party      Vicky Hartzler H001053    0.09   0.14   0.42   243
+   Democratic Alcee L.
+115Party      Hastings        H000324   0.35   0.08   0.29   260
+   Democratic
+115Party      Martin HeinrichH001046    0.32   0.04   0.47   1026
+   Republican Thomas 'Jeb'
+115Party      Hensarling      H001036   0.17   0.35   0.24   168
+   Republican Jaime Lynn
+115Party      Herrera BeutlerH001056    0.03   0.05    0.6   355
+   Democratic
+115Party      Brian Higgins H001038     0.16   0.09   0.63   104
+   Democratic James Andrew
+115Party      'Jim' Himes     H001047   0.23   0.12   0.31   489
+   Democratic Mazie K.
+115Party      Hirono          H001042   0.34   0.09   0.25   308
+   Republican John Henry
+115Party      Hoeven III      H001061   0.01     0    0.77   387
+   Democratic Steny H.
+115Party      Hoyer           H000874   0.51   0.21   0.16   1123
+   Republican
+115Party      Bill Huizenga H001058     0.09   0.27   0.55   512
+   Republican Randy
+115Party      Hultgren        H001059   0.01   0.06   0.54   226
+   Republican Duncan D.
+115Party      Hunter          H001048   0.03   0.12   0.45   160
+   Republican
+115Party      Darrell E. Issa I000056   0.15   0.11   0.45   522
+   Democratic Sheila Jackson
+115Party      Lee             J000032   0.18   0.04   0.39   522
+   Republican
+115Party      Lynn Jenkins J000290      0.08   0.14   0.45   174
+   Republican William Leslie
+115Party      'Bill' Johnson J000292    0.09   0.25   0.55   419
+   Democratic Eddie Bernice
+115Party      Johnson         J000126   0.13   0.08   0.45   301
+              Henry C.
+   Democratic 'Hank'
+115Party      Johnson Jr.     J000288   0.18   0.06   0.38   691
+   Republican
+115Party      Ron Johnson J000293        0.1    0.1   0.53   221
+   Republican Sam Robert
+115Party      Johnson         J000174   0.12   0.08   0.45   155
+   Republican Walter B.
+115Party      Jones Jr.       J000255   0.04   0.12   0.49   277
+   Republican James Daniel
+115Party      'Jim' Jordan J000289      0.31   0.36   0.17   114
+   Democratic
+115Party      Marcy Kaptur K000009      0.35   0.07   0.39   388
+              William
+   Democratic Richard 'Bill'
+115Party      Keating         K000375   0.24   0.02   0.39   202
+   Republican
+115Party      Mike Kelly      K000376   0.14   0.27   0.36   227
+   Democratic Ron James
+115Party      Kind            K000188   0.15   0.04   0.61   396
+   Republican Peter T. 'Pete'
+115Party      King            K000210   0.13   0.23   0.68   319
+   Republican
+115Party      Steve A. King K000362     0.11   0.08   0.14   910
+   Republican Adam
+   Party      Kinzinger
+115                           K000378   0.06   0.09   0.43   447
+   Republican Raul R.
+115Party      Labrador        L000573   0.05   0.16   0.55   450
+   Republican
+115Party      Doug Lamborn L000564      0.09   0.18   0.43   639
+   Republican Leonard J.
+115Party      Lance           L000567   0.03   0.14   0.49   270
+   Democratic James R. 'Jim'
+115Party      Langevin        L000559   0.16   0.05   0.44   443
+   Republican James
+115Party      Lankford        L000575    0.1   0.08   0.34   384
+   Democratic
+115Party      Rick Larsen L000560       0.33   0.08   0.43   433
+   Democratic John Barry
+115Party      Larson          L000557   0.31   0.02   0.42   535
+   Republican Robert E. 'Bob'
+115Party      Latta           L000566   0.05   0.09   0.54   481
+   Democratic Patrick Joseph
+115Party      Leahy           L000174   0.52    0.1   0.14   106
+   Democratic
+115Party      Barbara Lee L000551       0.49    0.1   0.17   748
+   Republican
+115Party      Mike Lee        L000577   0.18   0.23   0.23   274
+   Democratic Sander Martin
+115Party      'Sandy' Levin L000263      0.3   0.11   0.46   277
+   Democratic
+115Party      John R. Lewis L000287     0.22   0.02   0.27    45
+   Democratic Daniel William
+115Party      'Dan' Lipinski L000563     0.2   0.02    0.5   251
+   Republican Frank Alo
+115Party      LoBiondo        L000554     0    0.29   0.67    21
+   Democratic David 'Dave'
+115Party      Loebsack        L000565   0.11   0.08   0.72   236
+   Democratic
+115Party      Zoe Lofgren L000397       0.59   0.17   0.19   140
+   Republican
+115Party      Billy Long      L000576   0.09   0.31   0.31    35
+   Democratic
+115Party      Nita M. Lowey L000480     0.45    0.1   0.29   440
+   Republican Frank Dean
+115Party      Lucas           L000491    0.1   0.19   0.59    79
+   Republican Blaine
+115Party      Luetkemeyer L000569       0.12   0.23   0.39   390
+   Democratic
+115Party      Ben Ray Lujan L000570     0.29   0.08   0.45   328
+   Democratic Stephen F.
+115Party      Lynch           L000562   0.25   0.03   0.66   177
+              Carolyn
+   Democratic Bosher
+115Party      Maloney         M000087   0.25    0.1   0.32   333
+   Republican Kenny Ewell
+115Party      Marchant        M001158   0.07    0.2    0.4   146
+   Republican
+115Party      Tom Marino M001179        0.12   0.28   0.34    98
+   Democratic Edward John
+115Party      'Ed' Markey     M000133   0.55   0.09   0.18   1337
+   Democratic Doris O.
+115Party      Matsui          M001163   0.38   0.13   0.23   348
+   Republican John S.
+115Party      McCain          M000303   0.06   0.11   0.27   431
+   Republican Kevin
+115Party      McCarthy         M001165   0.15   0.22   0.33   354
+              Michael
+   Republican Thomas
+115Party      McCaul Sr.       M001157   0.07   0.19   0.31   688
+   Republican Tom
+115Party      McClintock       M001177    0.2   0.13   0.67    30
+   Democratic Betty Louise
+115Party      McCollum         M001143   0.62   0.15   0.31   1301
+   Democratic James P. 'Jim'
+   Party      McGovern
+115                            M000312   0.29   0.11   0.52   570
+   Republican Patrick T.
+115Party      McHenry          M001156   0.09    0.2   0.61   380
+   Republican David B.
+115Party      McKinley         M001180   0.06   0.14   0.52   409
+              Cathy
+   Republican McMorris
+115Party      Rodgers          M001159   0.06   0.12   0.53   956
+   Democratic Jerry
+115Party      McNerney         M001166   0.14   0.04   0.51   249
+   Republican Patrick 'Pat'
+115Party      Meehan           M001181   0.03   0.04   0.53   270
+   Democratic Gregory
+115Party      Weldon Meeks M001137       0.35   0.07   0.22   515
+   Democratic
+115Party      Gwen Moore M001160         0.51   0.12   0.18   390
+   Republican
+115Party      Jerry Moran M000934        0.02   0.06   0.68   571
+   Republican Lisa Ann
+115Party      Murkowski        M001153   0.01   0.04   0.68   646
+              Christopher
+   Democratic Scott 'Chris'
+115Party      Murphy           M001169   0.38   0.08   0.28   732
+              Timothy
+   Republican Francis 'Tim'
+115Party      Murphy           M001151   0.03   0.07   0.52   193
+   Democratic
+115Party      Patty Murray M001111       0.74   0.22   0.13   459
+   Democratic Jerrold L.
+115Party      Nadler           N000002   0.54   0.04   0.08   1744
+   Democratic Grace F.
+115Party      Napolitano       N000179   0.34   0.16   0.46   146
+   Democratic Richard E.
+115Party      Neal             N000015   0.33   0.23   0.39   255
+   Republican
+115Party      Kristi L. Noem N000184     0.07   0.16   0.56   370
+   Republican Devin G.
+115Party      Nunes            N000181   0.07   0.07   0.46    82
+   Republican
+115Party      Pete Olson       O000168   0.11   0.19   0.45   318
+              Steven
+   Republican McCarty
+115Party      Palazzo          P000601   0.15   0.25   0.42   343
+   Democratic Frank J.
+115Party      Pallone Jr.      P000034   0.33   0.16   0.36   762
+   Democratic Bill J. Pascrell
+115Party      Jr.              P000096   0.46    0.1   0.24   554
+   Republican
+115Party      Rand Paul        P000603   0.16   0.24   0.06   2421
+   Republican
+115Party      Erik Paulsen P000594       0.02   0.04   0.52   323
+   Republican Stevan E.
+115Party      'Steve' Pearce P000588     0.03   0.08   0.62   829
+   Democratic
+115Party      Nancy Pelosi P000197       0.55   0.25   0.06   1155
+   Democratic
+115Party      Ed Perlmutter P000593      0.38   0.09   0.36   455
+   Democratic
+115Party      Gary C. Peters P000595     0.26   0.04   0.51   771
+   Democratic
+115Party      Chellie Pingree P000597   0.49   0.07   0.38   489
+   Republican
+115Party      Ted Poe         P000592   0.03   0.04   0.57   380
+   Democratic
+115Party      Jared Polis     P000598   0.23   0.06   0.47   790
+   Republican Robert J. 'Rob'
+115Party      Portman         P000449   0.06   0.07    0.5   555
+   Republican
+115Party      Bill Posey      P000599   0.03     0    0.29    31
+   Democratic David Eugene
+115Party      Price           P000523   0.38   0.08   0.42   224
+   Democratic
+115Party      Mike Quigley Q000023      0.49   0.11   0.24   385
+   Republican Tom W. Reed
+115Party      II              R000585   0.04   0.08   0.51   592
+   Republican David G.
+115Party      'Dave' ReichertR000578    0.01   0.05   0.59   329
+   Republican James B. 'Jim'
+115Party      Renacci         R000586   0.03   0.11   0.52   1137
+   Democratic Cedric L.
+115Party      Richmond        R000588   0.19   0.01   0.32   104
+   Republican
+115Party      Martha Roby R000591       0.07   0.18   0.54   517
+   Republican David P. 'Phil'
+115Party      Roe             R000582   0.13   0.27   0.37   328
+   Republican Harold 'Hal'
+115Party      Rogers          R000395   0.02   0.04   0.62   330
+              Michael
+   Republican Dennis 'Mike'
+115Party      Rogers          R000575    0.1   0.58   0.23    40
+   Republican Dana Tyrone
+115Party      Rohrabacher R000409       0.01   0.01    0.8   302
+   Republican
+115Party      Todd Rokita R000592       0.15   0.38   0.57   690
+   Republican Thomas J.
+115Party      'Tom' Rooney R000583      0.04   0.07   0.55   229
+   Republican Ileana Ros-
+115Party      Lehtinen        R000435   0.01   0.02    0.3   3161
+   Republican Peter J.
+115Party      Roskam          R000580   0.02   0.04   0.64   171
+   Republican Dennis A.
+115Party      Ross            R000593   0.04    0.1   0.49   166
+   Democratic Lucille Roybal-
+115Party      Allard          R000486   0.19   0.09   0.33   821
+   Republican Edward R. 'Ed'
+115Party      Royce           R000487   0.01   0.06   0.47   424
+   Republican Marco Antonio
+115Party      Rubio           R000595   0.03    0.1   0.26   490
+   Democratic C. A. Dutch
+115Party      Ruppersberger R000576     0.13   0.03   0.51   525
+   Democratic
+115Party      Bobby L. Rush R000515     0.19   0.09   0.24   161
+   Republican
+115Party      Paul D. Ryan R000570      0.14   0.18   0.17   908
+   Democratic
+115Party      Tim J. Ryan R000577       0.43   0.14    0.3   566
+   Democratic John P.
+115Party      Sarbanes        S001168   0.28   0.08   0.43   465
+              Stephen
+   Republican Joseph 'Steve'
+115Party      Scalise         S001176   0.19   0.19   0.29   344
+   Democratic Janice D. 'Jan'
+115Party      Schakowsky S001145        0.42   0.13   0.26   706
+   Democratic
+115Party      Adam B. Schiff S001150    0.43    0.1   0.15   560
+   Democratic
+115Party      Kurt Schrader S001180     0.09   0.06   0.72   195
+              Charles E.
+   Democratic 'Chuck'
+115Party      Schumer        S000148    0.45   0.16    0.2   740
+   Republican David
+115Party      Schweikert     S001183    0.03   0.03    0.2   1450
+   Republican James 'Austin'
+115Party      Scott          S001189    0.04   0.12   0.63   186
+   Democratic David Albert
+115Party      Scott          S001157    0.08   0.05   0.51   143
+   Democratic Robert C.
+115Party      'Bobby' Scott S000185     0.24   0.17   0.43   185
+   Republican
+115Party      Tim Scott      S001184    0.06   0.06   0.41   399
+              Frank James
+              'Jim'
+   Republican Sensenbrenner
+115Party      Jr.            S000244    0.03   0.05    0.5    40
+   Democratic Jose E.
+115Party      Serrano         S000248   0.14   0.07    0.4   243
+              Peter
+              Anderson
+   Republican 'Pete'
+115Party      Sessions        S000250   0.15   0.23   0.38   445
+              Terrycina
+   Democratic Andrea 'Terri'
+115Party      Sewell          S001185   0.21   0.05   0.35   657
+   Republican Richard Craig
+115Party      Shelby          S000320   0.08   0.22   0.61   132
+              Bradley James
+   Democratic 'Brad'
+115Party      Sherman         S000344   0.38    0.1   0.38    88
+   Republican John M.
+115Party      Shimkus         S000364   0.12    0.2   0.38   328
+              William
+   Republican Franklin 'Bill'
+115Party      Shuster         S001154   0.08   0.27    0.3   201
+   Republican Michael K.
+115Party      'Mike' SimpsonS001148     0.02   0.05    0.7    57
+   Democratic
+115Party      Albio Sires     S001165   0.19   0.01    0.3   445
+              Louise
+   Democratic McIntosh
+115Party      Slaughter       S000480   0.45   0.05   0.36   806
+   Democratic
+115Party      Adam Smith S000510        0.24   0.06   0.46   588
+   Republican Adrian Michael
+115Party      Smith           S001172   0.05   0.12   0.12    58
+   Republican Christopher H.
+115Party      'Chris' Smith S000522     0.02   0.02   0.47   129
+   Republican Lamar S.
+115Party      Smith           S000583   0.06   0.12    0.5   178
+   Democratic
+115Party      Jackie Speier S001175     0.34   0.09   0.28   376
+   Republican Steven Ernst
+115Party      'Steve' Stivers S001187   0.02   0.03   0.68   324
+   Democratic Linda T.
+115Party      Sanchez         S001156   0.38   0.15   0.25   439
+   Democratic Bennie G.
+115Party      Thompson        T000193   0.07   0.02   0.48    95
+   Democratic Mike Michael
+115Party      Thompson        T000460   0.17   0.05   0.61   1246
+   Republican Glenn
+115Party      Thompson        T000467   0.04   0.21   0.71   288
+   Republican Mac M.
+115Party      Thornberry      T000238   0.09   0.12   0.31   299
+   Republican
+115Party      John Thune      T000250     0    0.09   0.58    57
+   Republican Patrick Joseph
+115Party      'Pat' Tiberi    T000462   0.14   0.15   0.35   220
+   Republican
+115Party      Scott R. Tipton T000470    0.06   0.03   0.59   358
+   Democratic
+115Party      Paul Tonko       T000469   0.46   0.08   0.29   949
+   Republican Patrick J. 'Pat'
+115Party      Toomey           T000461   0.04   0.11   0.28   387
+   Democratic Niki S.
+115Party      Tsongas          T000465   0.21   0.05   0.47   564
+   Republican Michael R.
+115Party      'Mike' Turner T000463      0.01   0.07   0.41   261
+   Republican Fred Stephen
+115Party      Upton            U000031   0.01   0.05   0.62   285
+   Democratic Chris Van
+115Party      Hollen Jr.       V000128   0.67   0.17   0.19   559
+              Nydia
+   Democratic Margarita
+115Party      Velazquez        V000081   0.33   0.07   0.27   435
+              Peter John
+   Democratic 'Pete'
+115Party      Visclosky      V000108     0.09   0.05   0.69   501
+   Republican
+115Party      Tim Walberg W000798        0.02   0.05   0.62   312
+   Republican Greg P.
+115Party      Walden         W000791     0.02   0.06    0.7   331
+              Timothy
+   Democratic James 'Tim'
+115Party      Walz           W000799      0.2    0.1    0.6    10
+              Debbie
+   Democratic Wasserman
+115Party      Schultz        W000797     0.52    0.1    0.3   1064
+   Democratic
+115Party      Maxine Waters W000187      0.58   0.14   0.07    59
+   Republican
+115Party      Daniel WebsterW000806      0.06   0.09   0.56   227
+   Democratic Peter Francis
+115Party      'Pete' Welch W000800       0.33   0.05   0.46   189
+   Republican
+115Party      Joe G. Wilson W000795      0.02   0.14   0.43   210
+   Democratic Frederica
+115Party      Smith Wilson W000808       0.16    0.1   0.52   234
+   Republican Robert Joseph
+115Party      'Rob' Wittman W000804      0.01   0.05   0.49   402
+   Republican Steve
+115Party      Womack         W000809     0.05   0.16   0.48   148
+   Republican
+115Party      Rob Woodall W000810        0.09    0.2   0.47   198
+   Democratic
+115Party      Ron Wyden      W000779     0.67   0.11   0.14   221
+   Democratic John A.
+115Party      Yarmuth        Y000062     0.37   0.18    0.3   250
+   Republican Kevin Wayne
+115Party      Yoder          Y000063     0.06   0.13   0.55   412
+   Republican
+115Party      Don E. Young Y000033       0.08   0.08   0.48   230
+   Republican
+115Party      Todd C. Young Y000064      0.04    0.1   0.58   332
+   Republican Dean Arthur
+115Party      Heller         H001041     0.08   0.11   0.35   545
+   Republican Mark E.
+115Party      Amodei         A000369     0.07   0.07   0.59    61
+   Democratic Suzanne
+115Party      Bonamici       B001278     0.27   0.07   0.46   540
+   Democratic Suzan K.
+115Party      DelBene        D000617     0.22   0.06   0.35   766
+   Republican Thomas
+115Party      Harold Massie M001184      0.17    0.2   0.26   420
+   Democratic Donald Milford
+115Party      Payne Jr.      P000604     0.36   0.06   0.36   611
+   Democratic Brian Emanuel
+115Party      Schatz          S001194   0.31   0.12   0.11   216
+   Democratic
+115Party      Bill Foster     F000454   0.28   0.05   0.44   290
+   Democratic
+115Party      Dina Titus      T000468   0.25   0.06   0.25   345
+   Republican
+115Party      Tom Cotton      C001095   0.09    0.1   0.28   503
+   Democratic Kyrsten
+115Party      Sinema          S001191   0.01     0    0.47   842
+   Republican Douglas L.
+115Party      'Doug' LaMalfa L000578     0.1   0.15   0.49   294
+   Democratic Jared William
+115Party      Huffman         H001068   0.49   0.11   0.41   940
+   Democratic
+115Party      Ami Bera        B001287    0.1   0.02   0.41   572
+   Republican
+   Party
+115           Paul Cook       C001094     0    0.05   0.55    20
+   Democratic
+115Party      Eric Swalwell S001193     0.31   0.09   0.35   750
+   Republican David G.
+115Party      Valadao         V000129   0.03   0.03   0.53   120
+   Democratic
+115Party      Julia Brownley B001285    0.12   0.04   0.68   852
+   Democratic Antonio 'Tony'
+115Party      Cardenas        C001097   0.32   0.08   0.31   336
+   Democratic
+115Party      Raul Ruiz       R000599   0.15   0.06   0.58   522
+   Democratic
+115Party      Mark Takano T000472       0.39   0.09   0.31   299
+   Democratic Alan S.
+115Party      Lowenthal       L000579   0.46   0.11   0.22   336
+   Democratic
+115Party      Juan Vargas V000130       0.18   0.03   0.55   261
+   Democratic
+115Party      Scott H. PetersP000608    0.23   0.08    0.5   356
+   Democratic Elizabeth H.
+115Party      Esty            E000293   0.22   0.06   0.38   509
+   Republican
+115Party      Ted S. Yoho Y000065       0.03   0.06   0.58   429
+   Republican
+115Party      Ron DeSantis D000621      0.12   0.17   0.38   328
+   Democratic Lois Jane
+115Party      Frankel         F000462   0.32   0.17   0.24   467
+   Republican Douglas Allen
+115Party      'Doug' Collins C001093    0.14   0.24   0.32   890
+   Democratic
+115Party      Tulsi Gabbard G000571      0.1   0.02   0.43   662
+              Tammy
+   Democratic Tammy
+115Party      Duckworth       D000622    0.3   0.06   0.41   774
+   Republican
+115Party      Rodney Davis D000619      0.06    0.1   0.62   543
+   Democratic
+115Party      Cheri Bustos B001286      0.29   0.14   0.55   673
+   Republican Jackie
+115Party      Walorski        W000813   0.12   0.23    0.4   532
+   Republican Susan W.
+115Party      Brooks          B001284   0.05   0.08    0.6   421
+   Republican
+115Party      Luke Messer M001189       0.11   0.29   0.53   617
+   Republican Garland 'Andy'
+115Party      Barr            B001282   0.09   0.18   0.41   523
+   Democratic Elizabeth Ann
+115Party      Warren          W000817   0.55   0.12    0.2   730
+   Democratic Joseph P. 'Joe'
+115Party      Kennedy III     K000379   0.37   0.06   0.23   394
+   Democratic John K.
+115Party      Delaney         D000620   0.26   0.08   0.28   1479
+   Democratic
+115Party      Angus King        K000383   0.08   0.01   0.61   426
+   Democratic Daniel T. 'Dan'
+115Party      Kildee            K000380    0.4    0.1   0.44   388
+   Democratic Richard M.
+115Party      'Rick' Nolan      N000127   0.24   0.05    0.4   383
+   Republican
+115Party      Ann Wagner        W000812   0.09    0.2   0.45   276
+   Republican
+115Party      Steve Daines      D000618   0.04   0.08   0.56   296
+   Republican Richard
+115Party      Hudson            H001067   0.09   0.13   0.56   470
+   Republican Robert
+115Party      Pittenger         P000606   0.15   0.31   0.43   550
+   Republican Mark Randall
+115Party      Meadows           M001187   0.24   0.36   0.38   536
+   Republican George E. B.
+115Party      Holding           H001065   0.07   0.08   0.22    90
+
+   Democratic
+115Party      Heidi HeitkampH001069       0.15   0.04   0.68   1049
+   Republican
+115Party      Kevin Cramer C001096        0.09   0.13   0.48   542
+   Republican Debra Strobel
+115Party      'Deb' Fischer F000463       0.05    0.1   0.49   197
+   Democratic Ann M. 'Annie'
+115Party      Kuster          K000382     0.24   0.09   0.45   569
+   Democratic Michelle Lujan
+115Party      Grisham         L000580     0.14   0.06   0.64   667
+   Democratic
+115Party      Grace Meng M001188          0.18   0.03    0.5   439
+   Democratic Hakeem S.
+115Party      Jeffries        J000294     0.42   0.13   0.13   293
+   Democratic Sean Patrick
+115Party      Maloney         M001185      0.1   0.01   0.46   892
+   Republican
+115Party      Chris Collins C001092       0.06   0.24   0.62   277
+   Republican Brad R.
+115Party      Wenstrup        W000815     0.03   0.12   0.45   679
+   Democratic
+115Party      Joyce Beatty B001281        0.34   0.09   0.27   326
+   Republican David Patrick
+115Party      'Dave' Joyce J000295        0.02   0.09   0.57   384
+              James
+   Republican Frederick 'Jim'
+115Party      Bridenstine     B001283     0.21   0.36   0.11   200
+   Republican Markwayne
+115Party      Mullin          M001190     0.14   0.23   0.34   711
+   Republican
+115Party      Scott Perry     P000605     0.06   0.12    0.5   585
+   Republican Keith James
+115Party      Rothfus         R000598      0.1   0.17   0.31   329
+              Matthew A.
+   Democratic 'Matt'
+115Party      Cartwright      C001090     0.08   0.07   0.61   221
+   Republican
+115Party      Tom Rice        R000597     0.13   0.25   0.44   485
+   Republican Rafael Edward
+115Party      'Ted' Cruz      C001098     0.14   0.17   0.38   1217
+   Republican Randy K.
+115Party      Weber           W000814     0.03   0.09   0.57   289
+   Democratic
+115Party      Beto O'Rourke O000170       0.05   0.04   0.66   1503
+   Democratic
+115Party      Joaquin CastroC001091       0.21   0.06    0.4   432
+   Republican
+115Party      Roger Williams W000816      0.05   0.11   0.46   697
+   Democratic Marc Allison
+115Party      Veasey          V000131     0.21   0.11   0.54   264
+   Democratic
+115Party      Filemon Vela V000132     0.16   0.01   0.56   148
+   Republican
+115Party      Chris Stewart S001192    0.06   0.16   0.46   325
+   Democratic Timothy 'Tim'
+115Party      Kaine          K000384   0.39   0.06   0.37   721
+   Democratic
+115Party      Derek Kilmer K000381      0.1   0.05   0.68   603
+   Democratic
+115Party      Denny Heck H001064       0.16   0.07   0.36   179
+   Democratic
+115Party      Mark Pocan P000607       0.41   0.07   0.33   459
+   Democratic
+115Party      Robin Kelly    K000385   0.26   0.09   0.44   1427
+              Marshall
+   Republican Clement 'Mark'
+115Party      Sanford Jr.    S000051   0.14   0.21   0.35   359
+   Republican Jason Thomas
+115Party      Smith          S001195   0.14   0.29   0.52   640
+   Democratic Cory Anthony
+   Party      Booker
+115                          B001288   0.41   0.08   0.16   737
+   Democratic Katherine M.
+115Party      Clark          C001101    0.3   0.05   0.31   476
+   Republican
+115Party      Bradley Byrne B001289    0.11   0.19   0.51   1110
+   Republican David Alan
+115Party      'Dave' Brat    B001290   0.22   0.28   0.43   998
+   Democratic Donald W.
+115Party      Norcross       N000188   0.17   0.06   0.49   625
+   Democratic
+115Party      Alma Adams A000370       0.34   0.09   0.45   687
+   Republican
+115Party      Gary Palmer P000609      0.04   0.11   0.64   283
+   Republican
+115Party      French Hill    H001072   0.03   0.09   0.59   560
+   Republican Bruce Eugene
+115Party      Westerman      W000821   0.04   0.07   0.65   645
+   Republican Martha
+115Party      McSally        M001197   0.02   0.04   0.61   583
+   Democratic
+115Party      Ruben Gallego G000574    0.35   0.04   0.45   368
+   Democratic Mark
+115Party      DeSaulnier     D000623   0.35   0.08   0.45   593
+   Republican
+115Party      Steve Knight K000387     0.01   0.02   0.63   246
+   Democratic
+115Party      Pete Aguilar A000371     0.21   0.04   0.56   207
+   Democratic
+115Party      Ted Lieu       L000582    0.5   0.06   0.18   1242
+   Democratic
+115Party      Norma Torres T000474     0.17   0.06   0.55   664
+   Republican
+115Party      Mimi Walters W000820     0.07   0.08   0.52   747
+   Republican
+115Party      Ken Buck       B001297   0.09   0.13   0.43   288
+   Republican
+115Party      Carlos Curbelo C001107   0.02   0.12   0.45   413
+   Republican Earl Leroy
+115Party      'Buddy' Carter C001103    0.1   0.16   0.45   365
+   Republican
+115Party      Jody Hice      H001071    0.1   0.19   0.48   499
+   Republican Barry
+115Party      Loudermilk     L000583   0.06   0.16   0.31   404
+   Republican
+115Party      Rick Allen     A000372    0.1   0.21   0.46   512
+   Republican Rodney Leland
+115Party      'Rod' Blum     B001294   0.01   0.05    0.6   401
+   Republican
+115Party      David Young Y000066      0.01   0.05   0.69   786
+   Republican
+115Party      Mike Bost      B001295   0.03   0.07   0.46   710
+   Republican Ralph
+115Party      Abraham        A000374   0.11   0.18    0.5   370
+   Republican
+115Party      Garret Graves G000577    0.01   0.03   0.43   795
+   Democratic
+115Party      Seth Moulton M001196     0.27   0.11   0.33   388
+   Republican
+115Party      Bruce Poliquin P000611   0.09   0.05   0.59   423
+   Republican John
+115Party      Moolenaar      M001194   0.03   0.06   0.68   366
+   Republican
+115Party      Mike Bishop B001293      0.06   0.12   0.43   269
+   Republican David A.
+115Party      'Dave' Trott   T000475   0.01   0.08   0.43   264
+   Democratic
+115Party      Debbie Dingell D000624   0.19   0.09   0.59   522
+   Democratic Brenda
+115Party      Lawrence       L000581   0.16   0.06   0.34   510
+              Thomas Earl
+              'Tom' Emmer
+   Republican Jr.
+115Party                     E000294   0.03   0.14   0.59   479
+   Republican
+115Party      Ryan Zinke     Z000018   0.03   0.19   0.75    36
+   Republican
+115Party      David Rouzer R000603     0.07   0.16   0.53   340
+   Republican Tom
+115Party      MacArthur      M001193   0.02   0.03    0.6   463
+   Democratic Bonnie Watson
+115Party      Coleman        W000822   0.32   0.13   0.27   583
+   Republican
+115Party      Lee M. Zeldin Z000017    0.07   0.19   0.43   706
+   Democratic
+115Party      Kathleen Rice R000602    0.37   0.05   0.39   182
+   Republican Elise Marie
+115Party      Stefanik       S001196   0.02   0.04   0.52   732
+   Republican John Michael
+115Party      Katko          K000386   0.02   0.08   0.62   424
+   Republican Steve Dane
+115Party      Russell        R000604   0.03   0.12   0.36   101
+   Republican
+115Party      Ryan Costello C001106    0.02   0.05   0.43   387
+   Democratic
+115Party      Brendan Boyle B001296    0.25   0.06   0.37   651
+   Republican
+115Party      John Ratcliffe R000601   0.21   0.33    0.4   499
+   Republican
+115Party      Will Hurd      H001073   0.01   0.01   0.66   1600
+   Republican
+115Party      Brian Babin    B001291    0.1   0.24   0.52   746
+              Ludmya
+   Republican Bourdeau 'Mia'
+115Party      Love           L000584   0.02   0.06   0.39   514
+   Democratic Donald 'Don'
+115Party      Beyer          B001292   0.42    0.1   0.21   1699
+   Republican Barbara Jean
+115Party      Comstock       C001105   0.03   0.03   0.65   289
+   Republican Dan
+115Party      Newhouse       N000189   0.03   0.12   0.66   462
+   Republican Glenn
+115Party      Grothman       G000576   0.06   0.16   0.53   324
+   Republican
+115Party      Alex Mooney M001195      0.08   0.16   0.63   324
+   Republican
+115Party      Evan Jenkins J000297      0.1    0.3   0.58   803
+   Republican
+115Party      Dan Sullivan S001198     0.06   0.12   0.59   473
+   Republican
+115Party      David Perdue P000612     0.12   0.33   0.35   375
+   Republican
+115Party      Joni Ernst     E000295   0.03   0.04   0.49   475
+   Republican
+115Party      Thom Tillis    T000476   0.06   0.09   0.37   360
+   Republican
+115Party      Mike Rounds R000605      0.07   0.07   0.61   501
+   Republican Bradley 'Mark'
+115Party      Walker         W000819   0.09   0.15   0.57   506
+   Republican Benjamin Eric
+115Party      'Ben' Sasse S001197      0.15    0.2    0.3   205
+              Daniel Michael
+   Republican 'Dan' Donovan
+115Party      Jr.            D000625   0.03   0.11   0.54   487
+   Republican
+115Party      Trent Kelly    K000388     0    0.05   0.71   449
+   Democratic Colleen W.
+115Party      Hanabusa       H001050   0.31   0.11   0.39   664
+   Democratic Carol Shea-
+115Party      Porter         S001170   0.42   0.07   0.34   369
+   Republican
+115Party      Darin LaHood L000585     0.03   0.14   0.58   569
+   Democratic Bradley S.
+115Party      Schneider      S001190   0.21   0.06    0.5   1053
+   Republican
+115Party      Scott W Taylor T000477   0.02   0.05   0.46   726
+   Democratic Tom
+115Party      O'Halleran     O000171   0.07   0.02   0.51   899
+   Republican
+115Party      James Comer C001108      0.02   0.06   0.71   382
+   Democratic Anthony
+115Party      Gregory BrownB001304     0.44   0.07   0.37   395
+   Republican Warren
+115Party      Davidson       D000626    0.1   0.17   0.44   535
+   Democratic
+115Party      Dwight Evans E000296     0.33   0.06    0.4   1030
+   Democratic Kamala D
+115Party      Harris         H001075   0.35   0.09   0.21   1465
+              Margaret
+   Democratic Wood 'Maggie'
+115Party      Hassan         H001076   0.27   0.04   0.37   723
+   Democratic Catherine
+115Party      Cortez Masto C001113     0.37   0.08   0.42   477
+   Republican John Neely
+115Party      Kennedy        K000393   0.03   0.11   0.42   489
+   Republican
+115Party      Andy Biggs     B001302    0.1   0.19   0.41   1120
+   Democratic
+115Party      Ro Khanna      K000389   0.21   0.06   0.31   1920
+   Democratic
+115Party      Jimmy PanettaP000613     0.15   0.06   0.54   480
+   Democratic
+115Party      Salud Carbajal C001112   0.22   0.04   0.51   350
+   Democratic Nanette
+115Party      Barragan       B001300   0.14   0.03   0.53   363
+   Democratic
+115Party      J. Luis Correa C001110   0.13   0.06   0.37   377
+              Lisa Blunt
+   Democratic Blunt
+115Party      Rochester      B001303   0.13   0.08   0.59   344
+   Republican
+115Party      Matt Gaetz     G000578   0.08   0.09   0.51   1044
+   Republican
+115Party      Neal Dunn      D000628   0.06   0.12   0.53   538
+   Republican John
+115Party      Rutherford     R000609   0.04    0.1   0.55   165
+   Democratic
+115Party      Al J Lawson Jr L000586    0.1   0.06   0.56   235
+   Democratic Stephanie
+115Party      Murphy         M001202     0.05   0.04   0.52    95
+   Democratic
+115Party      Darren Soto S001200        0.16   0.03   0.61   231
+   Democratic Val Val 'Val'
+115Party      Demings        D000627     0.11   0.04   0.46   612
+   Democratic Charlie Joseph
+115Party      Crist          C001111     0.06   0.03   0.58   913
+   Republican
+115Party      Brian Mast     M001199     0.01   0.03   0.53   543
+   Republican Francis
+115Party      Rooney         R000607     0.08    0.1   0.52   756
+   Republican A. Drew
+115Party      Ferguson IV F000465        0.02   0.07    0.5   585
+   Democratic Raja Raja
+115Party      KrishnamoorthiK000391      0.29   0.08   0.31   1224
+   Republican
+115Party      Jim E Banks B001299        0.07   0.17    0.5   799
+   Republican Trey
+115Party      Hollingsworth H001074      0.08   0.12   0.45   173
+   Republican Roger W
+115Party      Marshall       M001198     0.03   0.08   0.61   470
+   Republican Clay Clay
+115Party      Higgins        H001077     0.03   0.07   0.57   497
+   Republican Mike Michael
+115Party      Johnson        J000299     0.06   0.15   0.49   686
+   Democratic
+115Party      Jamie Raskin R000606       0.36   0.11   0.29   248
+   Republican
+115Party      Jack Bergman B001301       0.03   0.13   0.59   379
+   Republican
+115Party      Paul Mitchell IIIM001201   0.04   0.12   0.54   355
+   Republican Jason Mark
+115Party      Lewis            L000587   0.07   0.08   0.47   476
+   Republican
+115Party      Ted P Budd       B001305   0.07   0.15   0.44   550
+   Republican Don John
+115Party      Bacon            B001298   0.01   0.03   0.55   1005
+   Democratic Josh
+115Party      Gottheimer       G000583   0.08   0.06   0.56   1282
+   Democratic
+115Party      Jacky Rosen R000608        0.34   0.07    0.3   524
+   Democratic
+115Party      Ruben Kihuen K000390       0.12   0.06   0.52   902
+   Democratic Thomas
+115Party      Suozzi           S001201   0.11   0.08   0.56   812
+   Democratic Adriano
+115Party      Espaillat        E000297   0.27   0.05   0.32   1191
+   Republican
+115Party      John J. Faso F000464       0.03   0.08   0.53   658
+   Republican Claudia
+115Party      Tenney           T000478   0.05    0.1    0.6   892
+   Republican Brian
+115Party      Fitzpatrick      F000466     0    0.04   0.55   860
+   Republican Lloyd K
+115Party      Smucker          S001199   0.03   0.14   0.48   496
+   Republican David Frank
+115Party      Kustoff          K000392   0.06   0.16    0.6   309
+   Democratic Vicente
+115Party      Gonzalez         G000581   0.07   0.03   0.62   369
+   Republican Jodey Cook
+115Party      Arrington        A000375   0.08   0.14    0.5   453
+   Democratic A. Donald
+115Party      McEachin         M001200   0.25   0.07   0.35   1004
+              Thomas
+   Republican Alexander
+115Party      Garrett Jr.      G000580   0.04   0.09   0.46   480
+   Democratic Pramila
+115Party      Jayapal          J000298   0.46   0.14   0.29   1032
+   Republican Mike John
+115Party      Gallagher      G000579   0.01   0.04   0.59   481
+   Republican
+115Party      Liz Cheney     C001109    0.1   0.14   0.53   254
+   Republican
+115Party      Luther Strange S001202   0.07    0.2   0.53   450
+   Republican
+115Party      Ron Estes      E000298   0.11   0.12   0.49   212
+   Republican Ralph Norman
+115Party      Jr.            N000190   0.05   0.24   0.47   176
+   Republican
+115Party      Karen Handel H001078     0.04   0.13   0.52    23
+   Democratic
+115Party      Jimmy Gomez G000585      0.31   0.05    0.4   444
+   Republican
+115Party      John Curtis    C001114     0      0    0.38    13
+   Democratic
+114Party      Sherrod Brown B000944    0.11   0.17    0.4   111
+   Democratic
+114Party      Maria Cantwell C000127   0.06   0.06   0.58   190
+   Democratic Benjamin L.
+114Party      'Ben' Cardin C000141     0.08    0.1   0.37   950
+              Thomas
+   Democratic Richard 'Tom'
+114Party      Carper         C000174   0.01   0.04   0.79   516
+   Democratic Robert Patrick
+   Party      'Bob' Casey Jr.
+114                          C001070   0.04   0.08   0.43   437
+   Republican
+114Party      Bob Corker     C001071    0.1   0.03   0.44   409
+   Democratic Dianne
+114Party      Feinstein      F000062   0.04   0.07    0.3   222
+   Republican
+114Party      Orrin G. Hatch H000338   0.14   0.07   0.43   670
+   Democratic Amy Jean
+114Party      Klobuchar      K000367   0.03   0.09   0.57   590
+   Democratic Claire
+114Party      McCaskill      M001170   0.08   0.07   0.36   404
+   Democratic Robert 'Bob'
+114Party      Menendez       M000639   0.09   0.04   0.33   123
+   Democratic
+114Party      Bill Nelson    N000032     0      0    0.64    25
+              Bernard
+   Democratic 'Bernie'
+114Party      Sanders        S000033   0.09   0.08   0.12   4805
+   Democratic Debbie Ann
+114Party      Stabenow       S000770   0.05   0.14   0.53   336
+   Democratic
+114Party      Jon Tester     T000464   0.01   0.02   0.56   1191
+   Democratic Sheldon
+114Party      Whitehouse     W000802   0.06   0.09   0.53   592
+   Republican John A.
+114Party      Barrasso       B001261   0.19   0.14   0.36    69
+   Republican Roger F.
+114Party      Wicker         W000437   0.11   0.09   0.33   849
+   Republican Lamar
+114Party      Alexander      A000360   0.12   0.16   0.51   361
+   Republican Susan M.
+114Party      Collins        C001035   0.02   0.01   0.67   320
+   Republican
+114Party      John Cornyn C001056       0.2    0.1   0.35   1051
+   Democratic Richard J.
+114Party      'Dick' Durbin D000563    0.09   0.13   0.32   718
+              Michael
+   Republican Bradley 'Mike'
+114Party      Enzi           E000285   0.12   0.03   0.37   624
+   Republican Lindsey Olin
+114Party      Graham         G000359   0.21   0.16   0.28   1060
+   Republican James M. 'Jim'
+114Party      Inhofe         I000024   0.22   0.09   0.36   546
+   Republican Mitch
+114Party      McConnell        M000355   0.15   0.07   0.22   937
+   Democratic
+114Party      Jeff Merkley M001176       0.14   0.12   0.32   547
+   Democratic John Francis
+114Party      'Jack' Reed      R000122   0.04   0.07   0.51   166
+   Republican Patrick 'Pat'
+114Party      Roberts          R000307   0.13   0.04   0.55   1013
+   Republican Jefferson B.
+114Party      'Jeff' Sessions S001141    0.19   0.03    0.1   395
+   Democratic Jeanne
+114Party      Shaheen          S001181   0.04   0.08   0.51   590
+   Democratic
+114Party      Tom S. Udall U000039       0.04    0.1   0.63   385
+   Democratic
+114Party      Mark Warner W000805        0.03   0.08   0.45   506
+   Democratic Kirsten E.
+114Party      Gillibrand       G000555   0.04    0.2   0.32   317
+   Democratic Alan Stuart 'Al'
+114Party      Franken          F000457   0.13   0.19   0.38   560
+              Christopher
+   Democratic Andrew 'Chris'
+114Party      Coons            C001088   0.06   0.06   0.57   358
+   Democratic
+114Party      Joe Manchin IIIM001183       0    0.02   0.75   1326
+   Republican Robert B.
+114Party      Aderholt         A000055   0.05   0.01    0.6   303
+
+   Republican
+114Party      Justin Amash A000367       0.13   0.12   0.18   422
+   Republican
+114Party      Kelly Ayotte A000368       0.03   0.01   0.56   1228
+   Democratic Tammy
+114Party      Baldwin        B001230     0.07   0.09   0.49   1211
+   Republican Louis J. 'Lou'
+114Party      Barletta       B001269     0.16   0.08   0.53   1138
+   Republican Joe Linus
+114Party      Barton         B000213      0.2    0.1    0.4   1042
+   Democratic
+114Party      Karen Bass     B001270     0.07   0.21   0.41   1061
+   Democratic
+114Party      Xavier Becerra B000287     0.13   0.14   0.45   1524
+   Republican
+114Party      Dan Benishek B001271       0.05   0.01   0.58   593
+   Democratic Michael F.
+114Party      Bennet         B001267     0.02   0.03   0.51   629
+   Republican Gus M.
+114Party      Bilirakis      B001257     0.04   0.02   0.47   1446
+   Republican
+114Party      Rob Bishop     B001250     0.06   0.03   0.55    96
+   Democratic Sanford D.
+114Party      Bishop Jr.     B000490       0    0.03   0.68   475
+   Republican
+114Party      Diane Black B001273        0.27    0.1   0.35   1181
+              Marsha
+   Republican Wedgeworth
+114Party      Blackburn      B001243     0.26   0.06   0.22   1618
+   Democratic Earl
+114Party      Blumenauer B000574         0.07   0.06   0.46   439
+   Democratic Richard
+114Party      Blumenthal     B001277     0.05   0.06   0.27   764
+   Republican
+114Party      Roy Blunt      B000575     0.24   0.04   0.46   1371
+   Republican John Nichols
+114Party      Boozman        B001236      0.1   0.03   0.61   1782
+              Charles
+   Republican William
+114Party      Boustany Jr. B001255       0.19   0.08    0.5   1101
+   Democratic
+114Party      Barbara Boxer B000711      0.22   0.26    0.2   260
+   Republican
+114Party      Kevin P. Brady B000755    0.16   0.08   0.47   4128
+   Democratic Robert Alan
+114Party      'Bob' Brady     B001227   0.07   0.05   0.34    58
+              Morris
+   Republican Jackson 'Mo'
+114Party      Brooks Jr.      B001274   0.12   0.04   0.61   321
+   Democratic
+114Party      Corrine Brown B000911     0.02   0.02   0.21   258
+   Republican Vern
+114Party      Buchanan        B001260   0.12   0.02    0.3   416
+   Republican
+114Party      Larry Bucshon B001275     0.14   0.08   0.59   849
+   Republican Michael C.
+114Party      Burgess         B001248   0.09   0.03   0.52   500
+   Republican Richard M.
+114Party      Burr            B001135   0.13   0.05   0.39   1714
+              George
+   Democratic Kenneth 'G.K.'
+114Party      Butterfield Jr. B001251   0.02   0.07   0.58   460
+   Republican
+114Party      Ken S. Calvert C000059    0.22   0.08   0.39   188
+   Republican Shelley Moore
+114Party      Capito          C001047   0.05   0.01   0.61   1051
+   Democratic
+114Party      Lois Capps      C001036   0.02   0.07   0.52   506
+   Democratic Michael E.
+114Party      Capuano         C001037    0.1   0.11   0.41   206
+
+   Democratic John C.
+114Party      Carney          C001083     0    0.03   0.62   651
+   Democratic
+114Party      Andre Carson C001072      0.01   0.07   0.51   539
+   Republican
+114Party      John R. Carter C001051     0.1   0.07   0.56   2503
+   Republican
+114Party      Bill Cassidy    C001075   0.12   0.04   0.62   1203
+   Democratic
+114Party      Kathy Castor C001066      0.13   0.09   0.53   645
+   Republican Steve J.
+114Party      Chabot          C000266   0.03   0.04   0.61   428
+   Republican
+114Party      Jason Chaffetz C001076    0.19   0.05   0.21   2324
+   Democratic
+114Party      Judy M. Chu C001080       0.06   0.07   0.51   728
+   Democratic David N.
+114Party      Cicilline       C001084   0.09   0.09   0.49   804
+   Democratic Yvette D.
+114Party      Clarke          C001067   0.05   0.09   0.35   968
+   Democratic William Lacy
+114Party      'Lacy' Clay Jr. C001049   0.12   0.12   0.47   241
+   Democratic Emanuel
+114Party      Cleaver II      C001061   0.05   0.16   0.38   397
+   Democratic James E. 'Jim'
+114Party      Clyburn         C000537   0.06   0.13   0.46   235
+   Republican Daniel Ray
+114Party      'Dan' Coats     C000542   0.12   0.03   0.48   1079
+   Republican
+114Party      Mike Coffman C001077      0.07   0.03   0.54   761
+   Democratic Steve 'Steve'
+114Party      Cohen           C001068   0.09   0.16    0.4   951
+              Thomas
+   Republican Jeffery 'Tom'
+114Party      Cole            C001053   0.08   0.07   0.56   567
+              Kenneth
+   Republican Michael 'Mike'
+114Party      Conaway         C001062   0.06   0.02   0.74   479
+              Gerald Edward
+   Democratic 'Gerry'
+114Party      Connolly        C001078   0.09   0.11   0.35   323
+   Democratic John James
+114Party      Conyers Jr.      C000714   0.09   0.13   0.33   301
+              James Hayes
+   Democratic Shofner 'Jim'
+114Party      Cooper           C000754   0.03   0.09   0.58   310
+   Democratic
+114Party      Jim Costa        C001059   0.01   0.02   0.64   536
+   Democratic
+114Party      Joe Courtney     C001069   0.03   0.07   0.75   598
+   Republican Michael Dean
+114Party      'Mike' Crapo     C000880   0.04   0.04   0.58   716
+   Republican Eric A. 'Rick'
+114Party      Crawford         C001087   0.05   0.03   0.53   577
+   Republican Ander
+114Party      Crenshaw         C001045   0.04   0.01   0.36   381
+   Democratic Joseph 'Joe'
+114Party      Crowley          C001038   0.07   0.23   0.44   468
+   Democratic
+114Party      Henry Cuellar    C001063   0.01   0.02   0.71   943
+   Republican John Abney
+114Party      Culberson        C001048   0.12   0.24   0.48    82
+   Democratic Elijah Eugene
+114Party      Cummings         C000984   0.08   0.11   0.47   881
+   Democratic Danny K.
+114Party      Davis            D000096   0.01   0.03   0.63   128
+   Democratic Susan A.
+114Party      Davis            D000598   0.01   0.04   0.47   456
+   Democratic Peter Anthony
+114Party      DeFazio          D000191   0.09   0.07   0.37   260
+
+   Democratic Diana Louise
+114Party      DeGette          D000197   0.08   0.12   0.36   702
+   Democratic Rosa Luisa
+114Party      DeLauro          D000216   0.05   0.09   0.47   549
+   Republican
+114Party      Jeff Denham      D000612   0.06   0.02   0.45   891
+   Republican Charles W.
+114Party      'Charlie' Dent   D000604   0.06   0.09   0.59   753
+   Republican Scott
+114Party      DesJarlais       D000616   0.32   0.16   0.23   284
+   Democratic Theodore E.
+114Party      'Ted' Deutch     D000610   0.07    0.1   0.38   703
+   Republican Mario Diaz-
+114Party      Balart           D000600   0.07   0.02   0.54   1130
+   Democratic Lloyd A.
+114Party      Doggett          D000399   0.16    0.1   0.51   1312
+   Democratic
+114Party      Joe Donnelly     D000607   0.01   0.03   0.76   1270
+   Democratic Michael F.
+114Party      'Mike' Doyle     D000482   0.28   0.14   0.32    71
+   Republican
+114Party      Sean P. Duffy    D000614   0.11   0.04   0.49   1144
+   Republican
+114Party      Jeff Duncan      D000615   0.31   0.12   0.27   658
+              John James
+   Republican 'Jimmy'
+114Party      Duncan Jr.       D000533   0.07   0.08   0.54   197
+   Democratic Donna F.
+114Party      Edwards          E000290   0.06   0.11   0.37   1346
+   Democratic Keith Maurice
+114Party      Ellison          E000288   0.09   0.13   0.39   1173
+   Republican Renee L.
+114Party      Ellmers          E000291   0.15   0.07    0.5   1815
+   Democratic
+114Party      Eliot L. Engel   E000179   0.09   0.14   0.26   152
+   Democratic Anna Georges
+114Party      Eshoo            E000215   0.03   0.09   0.41   184
+   Republican Blake
+114Party      Farenthold       F000460   0.11   0.04   0.58   1733
+   Democratic
+114Party      Sam Farr          F000030   0.06   0.09   0.61   303
+   Democratic
+114Party      Chaka Fattah F000043          0    0.11   0.78    36
+   Republican Stephen Lee
+114Party      Fincher           F000458   0.17   0.03   0.44   253
+              Michael G.
+   Republican 'Mike'
+114Party      Fitzpatrick       F000451   0.03   0.01   0.45   1191
+   Republican
+114Party      Jeff Flake        F000444   0.06   0.03   0.33   412
+              Charles J.
+   Republican 'Chuck'
+114Party      Fleischmann F000459          0.1   0.03   0.55   406
+   Republican John C
+114Party      Fleming Jr        F000456   0.37   0.15   0.21   1609
+   Republican William H. 'Bill'
+114Party      Flores            F000461   0.14   0.09   0.47   2157
+   Republican James Randy
+114Party      'Randy' Forbes F000445      0.03   0.05   0.46   1182
+   Republican Jeff Lane
+114Party      Fortenberry       F000449   0.01   0.01   0.57   361
+   Republican Virginia Ann
+114Party      Foxx              F000450   0.13   0.06   0.55   1102
+   Republican
+114Party      Trent Franks F000448        0.14   0.07   0.22   525
+   Republican Rodney P.
+114Party      Frelinghuysen F000372       0.06     0    0.78   132
+   Democratic Marcia L.
+114Party      Fudge             F000455   0.02   0.07   0.54   977
+   Democratic John Raymond
+114Party      Garamendi         G000559   0.03   0.05   0.53   1019
+   Republican
+114Party      Cory Gardner G000562        0.13   0.01    0.5   1213
+   Republican
+114Party      Scott Garrett G000548       0.12   0.04   0.42   454
+   Republican
+114Party      Bob Gibbs         G000563    0.1   0.05   0.51   702
+   Republican Christopher P.
+114Party      'Chris' Gibson G000564      0.01   0.02   0.85   722
+   Republican Louie B.
+114Party      Gohmert Jr. G000552         0.16   0.07   0.25   1354
+   Republican Robert William
+114Party      'Bob' GoodlatteG000289      0.11   0.09   0.47   1024
+   Republican Paul Anthony
+114Party      Gosar             G000565   0.29   0.13    0.4   1577
+              Harold Watson
+   Republican 'Trey' Gowdy
+114Party      III               G000566   0.23   0.03   0.18   268
+   Republican
+114Party      Kay Granger G000377         0.05   0.02   0.71   429
+              Charles Ernest
+   Republican 'Chuck'
+114Party      Grassley          G000386   0.12   0.05   0.28   1261
+   Republican Sam B.
+114Party      Graves            G000546   0.19   0.08   0.51   275
+   Republican
+114Party      Tom Graves G000560          0.14   0.07   0.41   847
+   Democratic
+114Party      Al Green          G000553     0    0.04   0.22   352
+   Democratic Gene Eugene
+114Party      Green             G000410   0.01   0.07   0.69   543
+              Howard
+              Morgan
+   Republican 'Morgan'
+114Party      Griffith          G000568   0.08   0.08   0.55   783
+   Democratic Raul M.
+114Party      Grijalva          G000551   0.16   0.16    0.4   964
+   Republican
+114Party      Brett Guthrie G000558       0.12   0.06   0.58   612
+   Democratic Luis V.
+114Party      Gutierrez      G000535     0.1    0.1   0.23   620
+   Republican Richard L.
+114Party      Hanna          H001051    0.02   0.03   0.44   857
+   Republican
+114Party      Gregg Harper H001045      0.04   0.02   0.66   349
+   Republican
+114Party      Andy Harris    H001052    0.09   0.05   0.59   923
+   Republican
+114Party      Vicky Hartzler H001053    0.13   0.07   0.51   483
+   Democratic Alcee L.
+114Party      Hastings       H000324     0.1   0.13   0.29   590
+   Republican Joseph John
+114Party      'Joe' Heck     H001055    0.04   0.03    0.5   1464
+   Democratic
+114Party      Martin HeinrichH001046     0.1   0.07   0.61   1159
+   Republican Thomas 'Jeb'
+114Party      Hensarling     H001036    0.25   0.14   0.21   376
+   Republican Jaime Lynn
+114Party      Herrera BeutlerH001056    0.03   0.01   0.61   403
+   Democratic
+114Party      Brian Higgins H001038       0    0.02   0.76   369
+   Democratic James Andrew
+114Party      'Jim' Himes    H001047    0.05   0.09   0.44   711
+   Democratic Ruben E.
+114Party      Hinojosa       H000636    0.01   0.06   0.72   504
+   Democratic Mazie K.
+114Party      Hirono         H001042    0.05   0.15   0.35   195
+   Republican John Henry
+114Party      Hoeven III     H001061    0.02   0.02   0.72   706
+   Democratic Michael M.
+114Party      'Mike' Honda H001034      0.07   0.12   0.45   1233
+   Democratic Steny H.
+114Party      Hoyer           H000874    0.2   0.25   0.31   2105
+              Timothy Alan
+   Republican 'Tim'
+114Party      Huelskamp       H001057   0.23    0.1   0.36   1151
+   Republican
+114Party      Bill Huizenga H001058     0.14    0.1    0.6   932
+   Republican Randy
+114Party      Hultgren        H001059   0.05   0.04    0.5   684
+   Republican Duncan D.
+114Party      Hunter          H001048   0.09   0.05   0.28   287
+   Republican
+114Party      Robert Hurt     H001060   0.05   0.01   0.62   681
+              John H.
+   Republican 'Johnny'
+114Party      Isakson         I000055   0.42   0.08   0.17   242
+   Democratic
+114Party      Steve J. Israel I000057   0.07   0.12   0.42   481
+   Republican
+114Party      Darrell E. Issa I000056   0.24   0.03   0.26   980
+   Democratic Sheila Jackson
+114Party      Lee             J000032   0.05   0.07   0.47   488
+   Republican
+114Party      Lynn Jenkins J000290      0.16   0.05   0.49   752
+   Republican William Leslie
+114Party      'Bill' Johnson J000292    0.17   0.06   0.57   1001
+   Democratic Eddie Bernice
+114Party      Johnson         J000126   0.06    0.1   0.47   372
+              Henry C.
+   Democratic 'Hank'
+114Party      Johnson Jr.     J000288   0.04   0.07   0.38   730
+   Republican
+114Party      Ron Johnson J000293       0.06   0.05   0.54   1761
+   Republican Sam Robert
+114Party      Johnson         J000174    0.2   0.09   0.46   834
+   Republican Walter B.
+114Party      Jones Jr.       J000255   0.18   0.08   0.35   552
+   Republican James Daniel
+114Party      'Jim' Jordan J000289       0.2   0.15   0.29   282
+   Democratic
+114Party      Marcy Kaptur K000009      0.03   0.04   0.57   795
+              William
+   Democratic Richard 'Bill'
+114Party      Keating         K000375   0.01   0.02   0.62   446
+   Republican
+114Party      Mike Kelly      K000376   0.23   0.12   0.44   508
+   Democratic Ron James
+114Party      Kind            K000188   0.05   0.06   0.64   585
+   Republican Peter T. 'Pete'
+114Party      King            K000210   0.15   0.12   0.52   740
+   Republican
+114Party      Steve A. King K000362     0.16    0.1   0.28   1018
+   Republican Adam
+114Party      Kinzinger       K000378   0.09   0.05   0.41   746
+   Republican Mark Steven
+114Party      Kirk            K000360   0.05   0.03   0.39   2173
+   Republican John Paul
+114Party      Kline           K000363   0.13   0.11   0.46   328
+   Republican Raul R.
+114Party      Labrador        L000573   0.07   0.12    0.5   596
+   Republican
+114Party      Doug Lamborn L000564      0.17   0.09   0.39   1538
+   Republican Leonard J.
+114Party      Lance           L000567   0.06   0.06   0.51   758
+   Democratic James R. 'Jim'
+114Party      Langevin        L000559   0.01   0.06   0.59   1046
+   Republican James
+114Party      Lankford        L000575   0.14   0.04   0.39   1633
+   Democratic
+114Party      Rick Larsen L000560       0.09   0.15   0.56   1134
+   Democratic John Barry
+114Party      Larson          L000557   0.04   0.13   0.45   264
+   Republican Robert E. 'Bob'
+114Party      Latta           L000566   0.04   0.02   0.61   723
+   Democratic Patrick Joseph
+114Party      Leahy           L000174    0.1   0.14    0.3   256
+   Democratic
+114Party      Barbara Lee L000551       0.09   0.12   0.28   1498
+   Republican
+114Party      Mike Lee        L000577   0.13   0.13   0.35   990
+   Democratic Sander Martin
+114Party      'Sandy' Levin L000263     0.07   0.11   0.56   475
+   Democratic
+114Party      John R. Lewis L000287     0.02   0.08    0.3   235
+   Democratic Daniel William
+114Party      'Dan' Lipinski L000563    0.02   0.02    0.7   374
+   Republican Frank Alo
+114Party      LoBiondo        L000554   0.08   0.04   0.68   416
+   Democratic David 'Dave'
+114Party      Loebsack        L000565   0.04   0.08   0.69   240
+   Democratic
+114Party      Zoe Lofgren L000397       0.08   0.14   0.35   130
+   Republican
+114Party      Billy Long      L000576   0.15   0.07   0.34   642
+   Democratic
+114Party      Nita M. Lowey L000480     0.09   0.12   0.49   498
+   Republican Frank Dean
+114Party      Lucas           L000491   0.11   0.03   0.63   219
+   Republican Blaine
+114Party      Luetkemeyer L000569       0.21   0.08   0.34   613
+   Democratic
+114Party      Ben Ray Lujan L000570     0.12    0.1   0.52   523
+   Republican Cynthia M.
+114Party      Lummis          L000571   0.22   0.06   0.48   110
+   Democratic Stephen F.
+114Party      Lynch           L000562   0.01   0.04   0.72   399
+              Carolyn
+   Democratic Bosher
+114Party      Maloney        M000087   0.07   0.21   0.19   207
+   Republican Kenny Ewell
+114Party      Marchant       M001158   0.15   0.07   0.32   646
+   Republican
+114Party      Tom Marino M001179       0.21   0.14   0.33   861
+   Democratic Edward John
+114Party      'Ed' Markey    M000133   0.11   0.13   0.32   1838
+   Democratic Doris O.
+114Party      Matsui         M001163   0.04    0.1   0.42   648
+   Republican John S.
+114Party      McCain         M000303   0.14   0.03   0.38   647
+   Republican Kevin
+114Party      McCarthy       M001165   0.11   0.06    0.4   802
+              Michael
+   Republican Thomas
+114Party      McCaul Sr.     M001157   0.23   0.07   0.33   1151
+   Republican Tom
+114Party      McClintock     M001177   0.18   0.11   0.43   103
+   Democratic Betty Louise
+114Party      McCollum       M001143   0.15   0.16   0.57   654
+   Democratic Jim A.
+114Party      McDermott      M000404   0.07   0.09   0.46   245
+   Democratic James P. 'Jim'
+114Party      McGovern       M000312   0.04   0.15   0.62   1055
+   Republican Patrick T.
+114Party      McHenry        M001156   0.14   0.08   0.53   1070
+   Republican David B.
+114Party      McKinley       M001180   0.18   0.05   0.51   819
+              Cathy
+   Republican McMorris
+114Party      Rodgers        M001159   0.05    0.1   0.56   900
+   Democratic Jerry
+   Party      McNerney
+114                          M001166   0.03   0.05   0.67   679
+   Republican Patrick 'Pat'
+114Party      Meehan         M001181   0.07   0.02   0.55   793
+   Democratic Gregory
+114Party      Weldon Meeks M001137     0.09   0.11   0.31   697
+   Republican
+114Party      John L. Mica M000689     0.02   0.03   0.79   1085
+   Democratic Barbara A.
+114Party      Mikulski       M000702   0.03   0.11    0.5   137
+   Republican Candice S.
+114Party      Miller         M001150     0      0     0.4    10
+   Republican
+114Party      Jeff Miller    M001144   0.17   0.03   0.35   427
+   Democratic
+114Party      Gwen Moore M001160       0.13   0.16   0.28   1247
+   Republican
+114Party      Jerry Moran M000934      0.08   0.04   0.69   1866
+   Republican
+114Party      Mick MulvaneyM001182      0.2   0.13   0.37   1203
+   Republican Lisa Ann
+114Party      Murkowski      M001153   0.03   0.01   0.61   2385
+              Christopher
+   Democratic Scott 'Chris'
+114Party      Murphy         M001169   0.04   0.04   0.41   886
+              Timothy
+   Republican Francis 'Tim'
+114Party      Murphy         M001151   0.05   0.04   0.45   551
+   Democratic
+114Party      Patty Murray M001111      0.3    0.2   0.36   554
+   Democratic Jerrold L.
+114Party      Nadler         N000002   0.25   0.16   0.26   382
+   Democratic Grace F.
+114Party      Napolitano     N000179   0.01   0.05   0.76   226
+   Democratic Richard E.
+114Party      Neal           N000015   0.03   0.11   0.75   226
+   Republican Randy
+114Party      Neugebauer N000182         0.11   0.05   0.55   256
+   Republican
+114Party      Kristi L. Noem N000184     0.13   0.04   0.53   739
+   Republican Richard B.
+114Party      'Rich' Nugent N000185        0    0.02   0.56    54
+   Republican Devin G.
+114Party      Nunes            N000181   0.05   0.04   0.35   159
+   Republican
+114Party      Pete Olson       O000168   0.11   0.02   0.51   1826
+              Steven
+   Republican McCarty
+114Party      Palazzo          P000601    0.2   0.09   0.37   451
+   Democratic Frank J.
+114Party      Pallone Jr.      P000034   0.09   0.17    0.6   1122
+   Democratic Bill J. Pascrell
+114Party      Jr.              P000096   0.06    0.1   0.55   601
+   Republican
+114Party      Rand Paul        P000603   0.16   0.13   0.18   8823
+   Republican
+114Party      Erik Paulsen P000594       0.03   0.02   0.42   1047
+   Republican Stevan E.
+114Party      'Steve' Pearce P000588      0.1   0.03   0.61   1487
+   Democratic
+114Party      Nancy Pelosi P000197       0.28   0.34   0.13   724
+   Democratic
+114Party      Ed Perlmutter P000593      0.07   0.11   0.58   807
+   Democratic
+114Party      Gary C. Peters P000595     0.03   0.09   0.65   1161
+   Democratic
+114Party      Chellie Pingree P000597    0.06   0.07   0.52   532
+   Republican Joseph R.
+114Party      'Joe' Pitts      P000373    0.1   0.04   0.27   372
+   Republican
+114Party      Ted Poe          P000592   0.06   0.01   0.37   935
+
+   Democratic
+114Party      Jared Polis     P000598     0.1   0.11   0.44   262
+   Republican
+114Party      Mike Pompeo P000602         0.2   0.04   0.54   1285
+   Republican Robert J. 'Rob'
+114Party      Portman         P000449    0.11   0.05   0.57   2557
+   Republican
+114Party      Bill Posey      P000599    0.04   0.03   0.43   156
+   Democratic David Eugene
+114Party      Price           P000523    0.07   0.12   0.43   122
+   Republican
+114Party      Tom Price       P000591     0.3   0.16   0.18   809
+   Democratic
+114Party      Mike Quigley Q000023       0.06   0.12   0.47   843
+              Charles B.
+   Democratic 'Charlie'
+114Party      Rangel          R000053    0.06    0.1   0.27   490
+   Republican Tom W. Reed
+114Party      II              R000585    0.17   0.02   0.47   1851
+   Republican David G.
+114Party      'Dave' ReichertR000578     0.02   0.02   0.61   598
+   Democratic
+114Party      Harry M. Reid R000146       0.5   0.34   0.16   288
+   Republican James B. 'Jim'
+114Party      Renacci         R000586    0.04   0.05   0.51   1325
+   Republican
+114Party      Reid J. Ribble R000587     0.03   0.01   0.43   815
+   Democratic Cedric L.
+114Party      Richmond        R000588    0.03   0.06   0.37   354
+   Republican Edward Scott
+114Party      'Scott' Rigell R000589     0.06   0.02   0.47   917
+   Republican
+114Party      Martha Roby R000591        0.18   0.09   0.55   659
+   Republican David P. 'Phil'
+114Party      Roe             R000582   0.19    0.1   0.48   495
+   Republican Harold 'Hal'
+114Party      Rogers          R000395   0.02   0.02    0.6   530
+              Michael
+   Republican Dennis 'Mike'
+114Party      Rogers          R000575   0.06   0.02   0.54   1150
+   Republican Dana Tyrone
+114Party      Rohrabacher R000409       0.07   0.03   0.45   246
+   Republican
+114Party      Todd Rokita R000592       0.08    0.1   0.62   960
+   Republican Thomas J.
+114Party      'Tom' Rooney R000583      0.14   0.06   0.41   822
+   Republican Ileana Ros-
+114Party      Lehtinen        R000435   0.03   0.01    0.3   6215
+   Republican Peter J.
+114Party      Roskam          R000580   0.19   0.06   0.28   531
+   Republican Dennis A.
+114Party      Ross            R000593   0.14   0.08   0.55   509
+   Democratic Lucille Roybal-
+114Party      Allard          R000486   0.06   0.09   0.49   1068
+   Republican Edward R. 'Ed'
+114Party      Royce           R000487    0.1   0.04   0.51   688
+   Republican Marco Antonio
+114Party      Rubio           R000595   0.17   0.05   0.29   2460
+   Democratic C. A. Dutch
+114Party      Ruppersberger R000576     0.01   0.02   0.56   520
+   Democratic
+114Party      Bobby L. Rush R000515       0    0.05   0.46   303
+   Republican
+114Party      Paul D. Ryan R000570      0.19   0.19   0.14   1520
+   Democratic
+114Party      Tim J. Ryan R000577       0.13   0.19   0.42   1240
+   Democratic Loretta L.
+114Party      Sanchez         S000030   0.02   0.09    0.4   984
+   Democratic John P.
+114Party      Sarbanes        S001168   0.02   0.06   0.52   815
+
+              Stephen
+   Republican Joseph 'Steve'
+114Party      Scalise         S001176   0.17   0.08   0.36   1330
+   Democratic Janice D. 'Jan'
+114Party      Schakowsky S001145        0.15   0.18    0.3   986
+   Democratic
+114Party      Adam B. Schiff S001150    0.11    0.1   0.33   835
+   Democratic
+114Party      Kurt Schrader S001180     0.02   0.03   0.73   484
+              Charles E.
+   Democratic 'Chuck'
+114Party      Schumer         S000148   0.07   0.11   0.48   1176
+   Republican David
+114Party      Schweikert      S001183   0.11   0.03   0.25   4297
+   Republican James 'Austin'
+114Party      Scott           S001189   0.08   0.06   0.62   582
+   Democratic David Albert
+114Party      Scott           S001157   0.03   0.05   0.64   211
+   Democratic Robert C.
+114Party      'Bobby' Scott S000185     0.05   0.16   0.37   446
+   Republican
+114Party      Tim Scott       S001184   0.11   0.03   0.44   1186
+              Frank James
+              'Jim'
+   Republican Sensenbrenner
+114Party      Jr.             S000244   0.12   0.06   0.32   312
+   Democratic Jose E.
+114Party      Serrano         S000248   0.03   0.05   0.45   561
+              Peter
+              Anderson
+   Republican 'Pete'
+114Party      Sessions        S000250   0.22   0.09   0.34   984
+              Terrycina
+   Democratic Andrea 'Terri'
+114Party      Sewell          S001185    0.01   0.04   0.54   715
+   Republican Richard Craig
+114Party      Shelby          S000320    0.22   0.07   0.42   648
+              Bradley James
+   Democratic 'Brad'
+114Party      Sherman         S000344    0.06   0.06   0.26   231
+   Republican John M.
+114Party      Shimkus         S000364    0.12   0.09   0.52   840
+              William
+   Republican Franklin 'Bill'
+114Party      Shuster         S001154    0.18   0.12   0.43   660
+   Republican Michael K.
+114Party      'Mike' SimpsonS001148      0.08   0.04   0.61   108
+   Democratic
+114Party      Albio Sires     S001165    0.02   0.03   0.44   593
+              Louise
+   Democratic McIntosh
+114Party      Slaughter       S000480    0.08    0.1   0.51   882
+   Democratic
+114Party      Adam Smith S000510         0.06    0.1   0.48   869
+   Republican Adrian Michael
+114Party      Smith           S001172    0.25    0.1   0.27    67
+   Republican Christopher H.
+114Party      'Chris' Smith S000522      0.03   0.02   0.49   324
+   Republican Lamar S.
+114Party      Smith           S000583    0.14   0.08   0.47   917
+   Democratic
+114Party      Jackie Speier S001175      0.09    0.1   0.39   758
+   Republican Steven Ernst
+114Party      'Steve' Stivers S001187    0.03   0.03   0.61   659
+   Republican Marlin A.
+114Party      Stutzman        S001188     0.1   0.14   0.47   995
+   Democratic Linda T.
+114Party      Sanchez         S001156    0.06   0.08   0.53   595
+   Democratic Bennie G.
+114Party      Thompson        T000193    0.06   0.07    0.6   345
+
+   Democratic Mike Michael
+114Party      Thompson         T000460   0.09   0.13   0.64   1435
+   Republican Glenn
+114Party      Thompson         T000467   0.05   0.09   0.66   930
+   Republican Mac M.
+114Party      Thornberry       T000238   0.18   0.06   0.38   448
+   Republican
+114Party      John Thune       T000250   0.13   0.08    0.5   317
+   Republican Patrick Joseph
+114Party      'Pat' Tiberi     T000462   0.15   0.08   0.47   491
+   Republican
+114Party      Scott R. Tipton T000470    0.07   0.02   0.59   807
+   Democratic
+114Party      Paul Tonko       T000469   0.07    0.1   0.52   709
+   Republican Patrick J. 'Pat'
+114Party      Toomey           T000461    0.1   0.03   0.35   2055
+   Democratic Niki S.
+114Party      Tsongas          T000465   0.02   0.06   0.65   1557
+   Republican Michael R.
+114Party      'Mike' Turner T000463      0.07   0.01   0.47   290
+   Republican Fred Stephen
+114Party      Upton            U000031   0.03   0.03   0.62   697
+   Democratic Chris Van
+114Party      Hollen Jr.       V000128   0.17   0.15   0.32   942
+              Nydia
+   Democratic Margarita
+114Party      Velazquez        V000081   0.11   0.04   0.34   209
+              Peter John
+   Democratic 'Pete'
+114Party      Visclosky        V000108   0.01   0.08   0.65   836
+   Republican
+114Party      David Vitter   V000127   0.14   0.03   0.53   934
+   Republican
+114Party      Tim Walberg W000798      0.08   0.01   0.55   1019
+   Republican Greg P.
+114Party      Walden         W000791   0.05   0.03   0.73   606
+              Timothy
+   Democratic James 'Tim'
+114Party      Walz           W000799     0    0.03   0.78   103
+              Debbie
+   Democratic Wasserman
+114Party      Schultz        W000797   0.15   0.29   0.44   1706
+   Democratic
+114Party      Maxine Waters W000187    0.12   0.04   0.26   117
+   Republican
+114Party      Daniel WebsterW000806    0.01   0.04   0.77   940
+   Democratic Peter Francis
+114Party      'Pete' Welch W000800     0.03   0.09   0.56   350
+   Republican Lynn A.
+114Party      Westmoreland W000796     0.17   0.06   0.51   483
+   Republican Wayne Edward
+114Party      'Ed' Whitfield W000413   0.08   0.01   0.37   714
+   Republican
+114Party      Joe G. Wilson W000795    0.13   0.05   0.41   705
+   Democratic Frederica
+114Party      Smith Wilson W000808     0.01    0.1   0.51   597
+   Republican Robert Joseph
+114Party      'Rob' Wittman W000804    0.06    0.1   0.45   461
+   Republican Steve
+114Party      Womack         W000809   0.07   0.04   0.57   898
+   Republican
+114Party      Rob Woodall W000810      0.14   0.07   0.47   469
+   Democratic
+114Party      Ron Wyden      W000779   0.17   0.13   0.22   223
+   Democratic John A.
+114Party      Yarmuth        Y000062   0.07   0.07   0.49   311
+   Republican Kevin Wayne
+114Party      Yoder          Y000063   0.08   0.06   0.56   1001
+   Republican
+114Party      Don E. Young Y000033     0.14   0.03   0.46   1016
+   Republican
+114Party      Todd C. Young Y000064    0.22   0.14    0.4   1359
+   Republican Dean Arthur
+114Party      Heller         H001041   0.04   0.01   0.49   257
+   Democratic
+114Party      Janice Hahn H001063      0.02   0.06    0.6   955
+   Republican Mark E.
+114Party      Amodei         A000369   0.04   0.05   0.57   307
+   Democratic Suzanne
+114Party      Bonamici       B001278   0.03   0.08   0.58   1072
+   Democratic Suzan K.
+114Party      DelBene        D000617   0.02   0.03   0.49   1678
+   Republican Thomas
+114Party      Harold Massie M001184    0.06   0.09   0.41   938
+   Democratic Donald Milford
+114Party      Payne Jr.      P000604   0.04   0.07    0.5   1198
+   Democratic Brian Emanuel
+114Party      Schatz         S001194   0.07   0.07   0.24   662
+   Republican
+114Party      Matt Salmon S000018      0.09   0.02   0.38   1793
+   Democratic
+114Party      Bill Foster    F000454   0.05    0.1   0.54   617
+   Democratic Alan Mark
+114Party      Grayson        G000556    0.2   0.15   0.13   755
+   Democratic Ann Leila
+114Party      Kirkpatrick    K000368   0.06   0.03   0.66   1478
+   Democratic
+114Party      Dina Titus     T000468   0.08   0.16   0.42   999
+   Republican
+114Party      Tom Cotton     C001095   0.19   0.03   0.36   1497
+   Democratic Kyrsten
+114Party      Sinema         S001191      0    0.02   0.59   3629
+   Republican Douglas L.
+114Party      'Doug' LaMalfa L000578    0.16   0.09   0.52   480
+   Democratic Jared William
+114Party      Huffman        H001068    0.19   0.16   0.48   1432
+   Democratic
+114Party      Ami Bera       B001287    0.01   0.03   0.56   1303
+   Republican
+114Party      Paul Cook      C001094    0.05   0.01   0.55   384
+   Democratic
+114Party      Eric Swalwell S001193     0.05   0.06   0.49   1541
+   Republican David G.
+114Party      Valadao        V000129    0.01   0.01    0.5   354
+   Democratic
+114Party      Julia Brownley B001285    0.02   0.04   0.66   605
+   Democratic Antonio 'Tony'
+114Party      Cardenas       C001097    0.04   0.05   0.44   1433
+   Democratic
+114Party      Raul Ruiz      R000599    0.01   0.01    0.7   642
+   Democratic
+114Party      Mark Takano T000472       0.13   0.18   0.31   581
+   Democratic Alan S.
+114Party      Lowenthal      L000579    0.01   0.05   0.54   956
+   Democratic
+114Party      Juan Vargas V000130         0    0.05   0.74   363
+   Democratic
+114Party      Scott H. PetersP000608    0.03   0.05   0.59   1026
+   Democratic Elizabeth H.
+114Party      Esty           E000293    0.03   0.07    0.6   1047
+   Republican
+114Party      Ted S. Yoho Y000065       0.14   0.07   0.44   987
+   Republican
+114Party      Ron DeSantis D000621      0.21   0.08   0.27   790
+   Democratic Patrick E
+114Party      Murphy         M001191    0.08   0.14   0.43   1441
+   Democratic Lois Jane
+114Party      Frankel        F000462    0.03   0.08   0.42   1142
+   Republican Douglas Allen
+114Party      'Doug' Collins C001093    0.24   0.11   0.35   1646
+   Democratic
+114Party      Tulsi Gabbard G000571     0.01   0.07   0.48   1167
+              Tammy
+   Democratic Tammy
+114Party      Duckworth       D000622   0.04   0.07   0.49   1393
+   Republican
+114Party      Rodney Davis D000619      0.05   0.02   0.67   1189
+   Democratic
+114Party      Cheri Bustos B001286      0.03   0.09   0.59   1137
+   Republican Jackie
+114Party      Walorski        W000813   0.07   0.04   0.55   1958
+   Republican Susan W.
+114Party      Brooks          B001284   0.02   0.08   0.65   789
+   Republican
+114Party      Luke Messer M001189       0.05   0.07   0.55   908
+   Republican Garland 'Andy'
+114Party      Barr            B001282   0.22   0.09   0.46   876
+   Democratic Elizabeth Ann
+114Party      Warren          W000817   0.23    0.2   0.25   673
+   Democratic Joseph P. 'Joe'
+114Party      Kennedy III     K000379   0.02   0.08   0.49   1015
+   Democratic John K.
+114Party      Delaney         D000620   0.04   0.05   0.47   2253
+   Democratic
+114Party      Angus King      K000383     0    0.02   0.67   964
+   Democratic Daniel T. 'Dan'
+114Party      Kildee          K000380   0.06    0.1   0.55   964
+   Democratic Richard M.
+114Party      'Rick' Nolan N000127      0.04   0.05   0.64   934
+   Republican
+114Party      Ann Wagner W000812        0.13   0.06   0.45   605
+   Republican
+114Party      Steve Daines D000618      0.14   0.02   0.57   755
+   Republican Richard
+114Party      Hudson          H001067   0.14   0.05   0.46   1067
+   Republican Robert
+114Party      Pittenger       P000606   0.21    0.1   0.38   1549
+   Republican Mark Randall
+114Party      Meadows         M001187   0.16   0.09   0.46   787
+   Republican George E. B.
+114Party      Holding         H001065   0.14   0.04   0.23   381
+   Democratic
+114Party      Heidi HeitkampH001069     0.02   0.03   0.77   1534
+   Republican
+114Party      Kevin Cramer C001096      0.15   0.09   0.45   1321
+   Republican Debra Strobel
+114Party      'Deb' Fischer F000463     0.05   0.02   0.57   683
+   Democratic Ann M. 'Annie'
+114Party      Kuster          K000382   0.02   0.09   0.63   1121
+   Democratic Michelle Lujan
+114Party      Grisham         L000580   0.03   0.07    0.6   860
+   Democratic
+114Party      Grace Meng M001188        0.02   0.03   0.64   985
+   Democratic Hakeem S.
+114Party      Jeffries        J000294   0.06    0.1   0.33   1359
+   Democratic Sean Patrick
+114Party      Maloney         M001185   0.01   0.01   0.59   903
+   Republican
+114Party      Chris Collins C001092     0.19   0.13   0.52   484
+   Republican Brad R.
+114Party      Wenstrup        W000815    0.1   0.06   0.45   1196
+   Democratic
+114Party      Joyce Beatty B001281      0.02   0.06   0.43   931
+   Republican David Patrick
+114Party      'Dave' Joyce J000295      0.05   0.05   0.51   1222
+              James
+   Republican Frederick 'Jim'
+114Party      Bridenstine     B001283   0.31    0.1   0.15   1094
+   Republican Markwayne
+114Party      Mullin          M001190   0.15   0.04   0.47   1229
+   Republican
+114Party      Scott Perry     P000605   0.07   0.04   0.43   1374
+   Republican Keith James
+114Party      Rothfus        R000598    0.11   0.05   0.51   883
+              Matthew A.
+   Democratic 'Matt'
+114Party      Cartwright     C001090      0    0.05   0.62   499
+   Republican
+114Party      Tom Rice       R000597    0.12   0.07   0.56   1056
+   Republican Rafael Edward
+114Party      'Ted' Cruz     C001098    0.18   0.16   0.31   3895
+   Republican Randy K.
+114Party      Weber          W000814    0.08   0.04   0.37   1046
+   Democratic
+114Party      Beto O'Rourke O000170     0.01   0.02   0.66   1950
+   Democratic
+114Party      Joaquin CastroC001091     0.06   0.11   0.46   724
+   Republican
+114Party      Roger Williams W000816    0.25   0.08   0.36   1172
+   Democratic Marc Allison
+114Party      Veasey         V000131    0.06   0.07   0.59   832
+   Democratic
+114Party      Filemon Vela V000132        0    0.01   0.81   327
+   Republican
+114Party      Chris Stewart S001192     0.12   0.07   0.45   1302
+   Democratic Timothy 'Tim'
+114Party      Kaine          K000384    0.08   0.16    0.3   761
+   Democratic
+114Party      Derek Kilmer K000381     0.01   0.07   0.73   1389
+   Democratic
+114Party      Denny Heck H001064       0.02   0.06   0.59   266
+   Democratic
+114Party      Mark Pocan P000607       0.11   0.07   0.42   621
+   Democratic
+114Party      Robin Kelly    K000385   0.03   0.22   0.58   3337
+              Marshall
+   Republican Clement 'Mark'
+114Party      Sanford Jr.    S000051   0.14   0.12   0.41   741
+   Republican Jason Thomas
+114Party      Smith          S001195   0.12   0.06   0.62   1048
+   Democratic Cory Anthony
+114Party      Booker         B001288   0.01   0.04   0.23   3440
+   Democratic Katherine M.
+114Party      Clark          C001101   0.08   0.14   0.47   944
+   Republican
+114Party      Bradley Byrne B001289    0.19   0.07   0.53   2674
+   Republican
+114Party      David W. Jolly J000296   0.05   0.04   0.45   970
+   Republican Curtis 'Curt'
+114Party      Clawson        C001102    0.1   0.09   0.58   111
+   Republican David Alan
+114Party      'Dave' Brat    B001290   0.22   0.15   0.35   2605
+   Democratic Donald W.
+114Party      Norcross       N000188     0    0.04   0.72   2218
+   Democratic
+114Party      Alma Adams A000370       0.05    0.1   0.61   1092
+   Republican
+114Party      Bob Dold       D000613   0.02   0.02   0.53   2051
+   Republican
+114Party      Frank Guinta G000570     0.13   0.06   0.59   1404
+   Republican
+114Party      Gary Palmer P000609      0.08   0.04   0.51   1424
+   Republican
+114Party      French Hill    H001072   0.08   0.05   0.54   1107
+   Republican Bruce Eugene
+114Party      Westerman      W000821   0.05   0.02   0.65   1498
+   Republican Martha
+114Party      McSally        M001197   0.02   0.02    0.6   989
+   Democratic
+114Party      Ruben Gallego G000574    0.11   0.12   0.45   1142
+   Democratic Mark
+   Party      DeSaulnier
+114                          D000623   0.02   0.03   0.58   916
+   Republican
+114Party      Steve Knight K000387     0.01   0.01   0.73   1448
+   Democratic
+114Party      Pete Aguilar A000371     0.07   0.04   0.59   476
+   Democratic
+114Party      Ted Lieu       L000582   0.12   0.07   0.28   1859
+   Democratic
+114Party      Norma Torres T000474     0.01   0.03   0.64   864
+   Republican
+114Party      Mimi Walters W000820     0.08   0.09   0.57   1332
+   Republican
+114Party      Ken Buck       B001297   0.17   0.06   0.36   893
+   Democratic
+114Party      Gwen Graham G000575      0.02   0.06   0.67   1344
+   Republican
+114Party      Carlos Curbelo C001107   0.05   0.03   0.51   1541
+   Republican Earl Leroy
+114Party      'Buddy' Carter C001103   0.17   0.08   0.53   971
+   Republican
+114Party      Jody Hice      H001071   0.18   0.06   0.39   713
+   Republican Barry
+114Party      Loudermilk     L000583   0.15   0.07   0.32   638
+   Republican
+114Party      Rick Allen     A000372   0.15   0.04    0.5   1093
+   Democratic
+114Party      Mark Takai     T000473   0.01   0.08   0.61   917
+   Republican Rodney Leland
+114Party      'Rod' Blum     B001294   0.05   0.03   0.67   1051
+   Republican
+114Party      David Young Y000066      0.01   0.01    0.6   2118
+   Republican
+114Party      Mike Bost      B001295   0.07   0.02   0.73   1263
+   Republican Ralph
+114Party      Abraham        A000374   0.09   0.04   0.62   651
+   Republican
+114Party      Garret Graves G000577    0.06   0.02   0.67   1304
+   Democratic
+114Party      Seth Moulton M001196     0.04   0.09   0.49   634
+   Republican
+114Party      Bruce Poliquin P000611   0.13   0.03   0.55   1006
+   Republican John
+114Party      Moolenaar      M001194   0.09   0.05   0.53   790
+   Republican
+114Party      Mike Bishop B001293      0.06   0.03   0.53   1083
+   Republican David A.
+114Party      'Dave' Trott   T000475   0.14   0.02   0.46   718
+   Democratic
+114Party      Debbie Dingell D000624   0.03   0.08   0.62   824
+   Democratic Brenda
+114Party      Lawrence       L000581   0.07   0.12   0.51   790
+              Thomas Earl
+   Republican 'Tom' Emmer
+114Party      Jr.            E000294   0.07   0.04   0.51   813
+   Republican
+114Party      Ryan Zinke     Z000018   0.16   0.06    0.5   1496
+   Republican
+114Party      David Rouzer R000603     0.12   0.07    0.5   1079
+   Democratic
+114Party      Brad Ashford A000373     0.01   0.03   0.46   3137
+   Republican Tom
+114Party      MacArthur      M001193   0.04   0.01   0.65   1393
+   Democratic Bonnie Watson
+114Party      Coleman        W000822   0.08   0.11   0.39   771
+   Republican
+114Party      Cresent Hardy H001070    0.04   0.01   0.65   788
+   Republican
+114Party      Lee M. Zeldin Z000017    0.11   0.05   0.43   1373
+   Democratic
+114Party      Kathleen Rice R000602    0.02   0.04   0.53   457
+
+   Republican Elise Marie
+114Party      Stefanik       S001196   0.02   0.03   0.64   1970
+   Republican John Michael
+114Party      Katko          K000386   0.02   0.03   0.64   1150
+   Republican Steve Dane
+114Party      Russell        R000604   0.09   0.06   0.39   520
+   Republican
+114Party      Ryan Costello C001106    0.01   0.01   0.71   873
+   Democratic
+114Party      Brendan Boyle B001296    0.04   0.05    0.5   801
+   Republican
+114Party      John Ratcliffe R000601   0.17    0.1   0.38   1335
+   Republican
+114Party      Will Hurd      H001073   0.02   0.01   0.52   4312
+   Republican
+114Party      Brian Babin    B001291   0.22    0.1   0.47   1389
+              Ludmya
+   Republican Bourdeau 'Mia'
+114Party      Love           L000584   0.07   0.06   0.44   949
+   Democratic Donald 'Don'
+114Party      Beyer          B001292   0.05   0.16   0.41   1916
+   Republican Barbara Jean
+114Party      Comstock       C001105   0.03   0.04   0.71   2565
+   Republican Dan
+114Party      Newhouse       N000189   0.05   0.04    0.7   964
+   Republican Glenn
+114Party      Grothman       G000576   0.06   0.06   0.71   425
+   Republican
+114Party      Alex Mooney M001195       0.1   0.09   0.58   663
+   Republican
+114Party      Evan Jenkins J000297     0.06   0.04   0.74   1294
+   Republican
+114Party      Dan Sullivan S001198     0.15   0.03    0.6   1046
+   Republican
+114Party      David Perdue P000612     0.21   0.09   0.39   1104
+   Republican
+114Party      Joni Ernst     E000295   0.06   0.04   0.53   1226
+   Republican
+114Party      Thom Tillis    T000476   0.14   0.03   0.43   967
+   Republican
+114Party      Mike Rounds R000605      0.05   0.02   0.64   1038
+   Republican Bradley 'Mark'
+114Party      Walker         W000819   0.13   0.12   0.56   1194
+   Republican Benjamin Eric
+114Party      'Ben' Sasse S001197      0.12   0.08   0.36   574
+              Daniel Michael
+   Republican 'Dan' Donovan
+114Party      Jr.            D000625   0.11   0.02    0.5   744
+   Republican
+114Party      Trent Kelly    K000388   0.03   0.02    0.6   468
+   Democratic Colleen W.
+114Party      Hanabusa       H001050   0.07    0.2   0.34    41
+   Republican
+114Party      Aaron Schock S001179       0      0     0.7    27
+   Republican John A.
+114Party      Boehner        B000589   0.29    0.1   0.14   550
+   Republican
+114Party      Darin LaHood L000585     0.07   0.06   0.67   688
+   Republican
+114Party      James Comer C001108        0      0    0.33    12
+   Republican Warren
+114Party      Davidson       D000626   0.16   0.07   0.38   312
+   Democratic
+114Party      Dwight Evans E000296       0      0    0.79    24
+
