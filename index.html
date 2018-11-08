@@ -13,7 +13,31 @@
 </head>
 
 <body>
-  <div class="container">
+  <div id="header">
+    <div class="nav-bar-left">
+      <a href="#" id="button">
+        <div class="search-icon">
+          <i class="fas fa-search"></i>
+        </div>
+      </a>
+      <a href="#">
+          <div class="hamburger-menu" id="button">
+            <h4>Sections</h4>
+            <i class="fas fa-bars"></i>
+          </div>
+      </a>
+    </div>
+      <a href="https://www.washingtonpost.com/">
+        <img class="logo" src="/img/twp-logo.png" alt="The Washington Post">
+      </a>
+      <a href="#">
+          <div class="user-icon" id="button">
+            <h4>Sign In</h4>
+            <i class="fas fa-user"></i>
+          </div>
+      </a>
+  </div>
+<div class="container">
     <div class="icon-bar">
         <a href="#" class="home"><i class="fa fa-home" aria-hidden="true"></i></a>
         <a href="#" class="facebook"><i class="fab fa-facebook-square"></i></a>
@@ -27,28 +51,7 @@
         <a href="#" class="print"><i class="fas fa-print"></i></a>
         <a href="#" class="comment"><i class="fas fa-comments"></i></a>
     </div>
-    <div id="header">
-      <div class="nav-bar-left">
-        <a href="#" id="button">
-          <div class="search-icon">
-            <i class="fas fa-search"></i>
-          </div>
-        </a>
-        <a href="#">
-            <div class="hamburger-menu" id="button">
-              <h4>Sections</h4>
-              <i class="fas fa-bars"></i>
-            </div>
-        </a>
-      </div>
-      <img class="logo" src="/img/twp-logo.png" alt="The Washington Post">
-        <a href="#">
-            <div class="user-icon" id="button">
-              <h4>Sign In</h4>
-              <i class="fas fa-user"></i>
-            </div>
-        </a>
-    </div>
+
         <div class="title">
           <h2>Politics</h2>
           <h1>The Politics of Facebook</h1>
@@ -56,7 +59,11 @@
           <h3>November 8, 2018 at 4:59 PM</h3><br>
         </div>
     <div class="text1">
-      <p>As the world learned in the aftermath of the 2016 United States Presidential election, social media can have a profound effect on the public’s perception of a candidate running for office. The Pew Research Center conducted a study following how each member of Congress used Facebook during the entirety of the 114th Congressional Session, which ran during two full years of Barack Obama’s Presidency, and during the first year of the 115th Congressional Session, which commenced during the final weeks of President Obama’s term. The data measures through the last day of 2017.</p><br>
+      <div class="congress-img">
+        <img src="./img/congress.jpg" alt="Congress">
+        <h3>Obama speaking to a joint congressional session in 2009. <i>Source: By Lawrence Jackson (whitehouse.gov) [Public domain], via Wikimedia Commons</i></h3>
+      </div>
+      <p>As the world learned in the aftermath of the 2016 United States Presidential election, social media can have a profound effect on the public’s perception of a candidate running for or already in office. The Pew Research Center conducted a study following how each member of Congress used Facebook during the entirety of the 114th Congressional Session, which ran during two full years of Barack Obama’s Presidency, and during the first year of the 115th Congressional Session, which commenced during the final weeks of President Obama’s term. The data measures through the last day of 2017.</p><br>
       <p>If the Congress member was a Republican, the study measured the percentage of posts that were made in opposition of either Barack Obama, Hillary Clinton, and/or Democrats and Liberals. If they were a Democrat, the posts collected were in opposition of Donald Trump, the Republican Party or conservatives. The data shows that Democratic members of Congress had a higher tendency to make Facebook posts that were opposing Republicans or their affiliates. The chart below demonstrates the collective data from both the 114th and 115th Congresses.</p>
     </div>
 
@@ -79,7 +86,7 @@
     </div>
 
     <div class="text3">
-      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+      <p>When taking a closer look at the data of representatives from a specific state, one can see trends in each party. For example, certain North Carolina representatives showed significant spikes in their opposition and support posts during the 115th Congress. David Price (D) and Alma Adams (D) were the representatives with the highest portion of opposition posts, both of which spiked at least 29% between the 114th and 115th Congresses. On the other hand, Republican representatives Mark Meadows and Robert Pittenger showed the highest percentage of supportive posts. They also demonstrated a great increase between sessions, with Meadows increasing 27% and Pittenger jumping 30%. These number aren’t exactly surprising, but they do provoke the question of which type of Facebook rhetoric is more effective: supporting your party or expressing opposition to the other?</p>
     </div>
 
     <div id="scatter3">
@@ -87,16 +94,21 @@
 
     </div>
 
+<div id="table" style="overflow-x:auto;">
 
+  <h5>Data on North Carolina Representative's Facebook Usage and Rhetoric</h5>
+  <p>Click on the header to sort by name, party affiliation, or Congressional Session</p>
+<!---content will go here--->
+  <h3>Source: Pew Research Center</h3>
 
-    <table id="table" class="display" style="width:100%">
+    <table id="myTable" class="display" style="width:100%">
             <thead>
                 <tr>
-                    <th>Name</th>
-                    <th>Party</th>
-                    <th>Session</th>
-                    <th>Opposition %</th>
-                    <th>Support %</th>
+                    <th onclick="sortTable(0)">Name</th>
+                    <th onclick="sortTable(1)">Party</th>
+                    <th onclick="sortTable(2)">Session</th>
+                    <th onclick="sortTable(3)">Opposition %</th>
+                    <th onclick="sortTable(4)">Support %</th>
                     <th>Local %</th>
                     <th>Total Posts</th>
                 </tr>
@@ -379,10 +391,41 @@
 
         </table>
 
+</div>
+
+
     <div class="text4">
       <h2>Sources</h2><br>
       <p>The Pew Research Center: Congressional Rhetoric on Facebook (2015-2017) Estimated Support, Opposition, and Local Topics</p>
     </div>
+
+    <div class="copyright">
+
+      <div class="copyright-social">
+        <a href="#" class="copyright-facebook">
+          <i class="fab fa-facebook-f"></i>
+        </a>
+        <a href="#" class="copyright-twitter">
+          <i class="fab fa-twitter"></i>
+        </a>
+        <a href="#" class="copyright-rss">
+          <i class="fas fa-rss"></i>
+        </a>
+      </div>
+
+      <h3>washingtonpost.com © 1996-2018 The Washington Post</h3>
+
+      <div class="copyright-account">
+        <a href="#" class="copyright-subscribe">
+          <h6>Subscribe</h6>
+        </a>
+        <a href="#">
+          <h6>Sign In</h6>
+        </a>
+      </div>
+
+    </div>
+
 
 
 

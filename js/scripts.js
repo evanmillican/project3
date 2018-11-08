@@ -114,40 +114,6 @@ window.onscroll = function() {
 
           chart.renderTo('#bar1');
 
-/*test chart 3
-var chart = new Taucharts.Chart({
-
-            guide:{
-              x: {label: {text:'Total Number of Posts for Each Member'},
-                  padding: {b:40,l:40,t:10,r:10}
-            },
-              y: {label: {text:'Percentage of Opposition Posts'},
-                  padding: {b:40,l:40,t:10,r:10}
-                }
-            },
-            dimensions:{
-              support_any: {
-                type: 'measure',
-                scale: 'linear'
-              },
-              total_posts: {
-                type: 'measure'
-              }
-            },
-            data: cong_rhet,
-            type: 'scatterplot',
-            x: 'total_posts',
-            y: 'support_any',
-            color: 'party',
-            plugins:[
-              Taucharts.api.plugins.get('legend')(),
-              Taucharts.api.plugins.get('tooltip')({
-                fields: ['name', 'total_posts', 'session']
-              })
-            ]
-
-        });
-chart.renderTo('#scatter3');*/
 
 
         }
@@ -159,6 +125,45 @@ chart.renderTo('#scatter3');*/
 
 
 
-
-
 }); /*close doc ready*/
+
+function sortTable(n) {
+  var table, rows, switching, i, x, y, shouldSwitch, dir, switchcount = 0;
+  table = document.getElementById("myTable");
+  switching = true;
+  dir = "asc";
+  while (switching) {
+    switching = false;
+    rows = table.rows;
+    for (i = 1; i < (rows.length - 1); i++) {
+      shouldSwitch = false;
+      x = rows[i].getElementsByTagName("TD")[n];
+      y = rows[i + 1].getElementsByTagName("TD")[n];
+      if (dir == "asc") {
+        if (x.innerHTML.toLowerCase() > y.innerHTML.toLowerCase()) {
+          shouldSwitch = true;
+          break;
+        }
+      } else if (dir == "desc") {
+        if (x.innerHTML.toLowerCase() < y.innerHTML.toLowerCase()) {
+          shouldSwitch = true;
+          break;
+        }
+      }
+    }
+    if (shouldSwitch) {
+      rows[i].parentNode.insertBefore(rows[i + 1], rows[i]);
+      switching = true;
+      switchcount ++;
+    } else {
+      if (switchcount == 0 && dir == "asc") {
+        dir = "desc";
+        switching = true;
+      }
+    }
+    if (Number(x.innerHTML) > Number(y.innerHTML)) {
+      shouldSwitch = true;
+      break;
+    }
+  }
+}
